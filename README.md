@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, I'm Your Name! 👋
+
+I'm a passionate software developer.
+
+## Skills
+
+- :snake: Python
+- :database: SQL
+
+## Projects
+
+- [Project 1](link-to-project-1): Short project description.
+- [Project 2](link-to-project-2): Brief description.
+
+## Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)](link-to-linkedin)
+- [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue?style=flat-square&logo=twitter)](link-to-twitter)
+
