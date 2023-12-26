@@ -17,7 +17,7 @@
 <h2 style='italic'> Snapshot... Me, Myself! </h2>
 
 <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/Images/Snapshot.jpg" width="250" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/Images/Snapshot2.jpg" width="250" alt="Description">
 </p>
 
 👋 Hi everyone,
