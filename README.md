@@ -1,4 +1,7 @@
-<h1 align = "center">Hi there, I am Arif! </h1>
+<h1 align = "center"> 
+  
+  _Hi there, I am Arif!_
+</h1>
 <br>
 <br>
 
@@ -9,12 +12,16 @@
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ArifWaghbakriwala/featured)&emsp;&emsp;
 [![](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://in.pinterest.com/arifwaghbakriwala/)&emsp;&emsp;
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/arif_wb/)&emsp;&emsp;
-
-
-
 <br>
 <br>
-<h2 style='italic'> Snapshot... Me, Myself! </h2>
+<br>
+<br>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<h1> 
+  
+  _Snapshot... Me, Myself!_ </h1>
+
 
 <p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/SnapShot2.gif" width="250" alt="Description">
@@ -27,11 +34,17 @@ I'm Arif, a Data Scientist with a Master's in Data Science from Northeastern Uni
 I've tackled impactful projects at PUMA North America, automating outlier detection in retail sales data and building sales and demand forecasting system for optimizing raw materials inventory. 💼 🎓 I also served as a Graduate Teaching Assistant for CS7150-Deep Learning and DS4400- Machine Learning and Data Mining, designing homeworks & rubrics, grading and conducting Office Hours to Simplify concepts.
 
 My technical strengths include Time Series Analysis, Machine Learning, Data Mining, SQL and Statistics. Proficient in Python, R, C/C++ and key libraries like Pandas, Scikit-learn, Numpy, Tensorflow, PyTorch, Keras, etc 📚🖥️. 🗣️📚 Let's connect and explore the world of data together! 🌐✨
-
-
 <br>
 <br>
-<h2> In the Pages of My Journey! </h2>
+<br>
+<br>
+
+
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<h1> 
+  
+  _In the Pages of My Journey!_ </h1>
 
 <p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/AboutMe2.gif" width="250" alt="Description">
@@ -44,11 +57,16 @@ Fueled by passion for this domain, preparing myself for an extended progressive 
 I hold a Masters Degree in Data Science at [__Northeastern University - Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) and a Bachelor's Degree in Computer Engineering at [__Gujarat Technological University - Pacific School of Engineering__](https://www.gtu.ac.in). I am an experienced Data Scientist that can build end-to-end Data Science and Machine Learning Projects. Furthermore, I have a strong practical and theoretical experience in the development of Machine Learning, Deep Learning and AI Models.🎓💻
 
 I worked at companies such as [__PUMA North America__](https://us.puma.com/us/en) and [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) as a __Data Scientist__ and __Graduate Teaching Assistant__, generating valuable information, insights and conclusion from data and contributing field knowledge to the peers and fellow students of Northeastern. This portfolio demonstrates a wide range of skills that I possess in solving and tackling machine learning problems and is a proof of my work of contribution to the field of Data Science.📚💡
-
-
 <br>
 <br>
-<h2>Skills!</h2>
+<br>
+<br>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<h1>
+  
+  _Skills!_ </h1>
+
 <p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/skillsstart.gif" width="250" alt="Description">
 </p>
@@ -68,6 +86,7 @@ The following fragments of tools and technologies along with essentials, define 
   - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <br>
+<br>
 
 - Expertise in Frameworks, Packages and Libraries
   
@@ -83,6 +102,7 @@ The following fragments of tools and technologies along with essentials, define 
   - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
   - ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 <br>
+<br>
 
 - Familiarity with Additional Software Packages
   
@@ -96,6 +116,7 @@ The following fragments of tools and technologies along with essentials, define 
   - ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 <br>
+<br>
 
 - IDEs and Version Control
   
@@ -108,6 +129,7 @@ The following fragments of tools and technologies along with essentials, define 
    - ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
    - ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 <br>
+<br>
 
 - I contribute to
 
@@ -118,6 +140,7 @@ The following fragments of tools and technologies along with essentials, define 
   - ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
   - ![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange)
   - ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+<br>
 <br>
 
 -  Proficient in Essential Tools
@@ -133,12 +156,27 @@ The following fragments of tools and technologies along with essentials, define 
    - ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
    - ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
    - ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
- <br>
+<br>
+<br>
 
  <p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Skillsend.gif" width="250" alt="Description">
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<h1> 
+  
+  _Career Kaleidoscope!_ </h1>
+<h3>
+  
+  [__PUMA North America__](https://us.puma.com/us/en) - _Data Scientist_
+</h3>
 
 
 ## 🎬📠 My GitHub Summary: 
