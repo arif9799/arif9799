@@ -13,6 +13,10 @@
 
 <h2 style='italic'> Snapshot... Me, Myself! </h2>
 
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/Snapshot.jpg" width="150" alt="Description">
+</p>
+
 👋 Hi everyone,
 
 I'm Arif, a Data Scientist with a Master's in Data Science from Northeastern University. 🚀 My expertise lies in transforming complex datasets into actionable insights and crafting end-to-end business solutions. 🧠 I specialize in automating decision-making through innovative modeling techniques and I excel at unraveling untold data stories and presenting complex concepts in creative ways, including animations! 📊✨
@@ -25,15 +29,18 @@ My technical strengths include Time Series Analysis, Machine Learning, Data Mini
 
 <h2> In the Pages of My Journey! </h2>
 
-Surfing through the internet for a Data Scientist only to stumble upon this portfolio, a coincidence? Nah! You’ve landed just in right place. Myself Arif, a Data Scientist & an ML Enthusiast with a passion for automation & zeal to craft solutions that requires minimal or no effort eradicating human intervention. I love fiddling around Datasets, exploring relations, extracting significant insights, retrieving never-heard-before stories, scrutinizing data not only to the point where all WHYs have been answered but uprooting causes to problems one never knew existed in first place, leveraging them to train apt ML algorithms to be able to tackle challenges similar to or even better then humans.
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/eileen-pan-5d5DSRQ5dUc-unsplash.jpg" width="250" alt="Description">
+</p>
 
-Fueled by passion for this domain, preparing myself for an extended progressive career that provides ample opportunities for constantly growing & learning in the field. Ever since my first encounter of stunning capabilities of AI, that triggered the course of events of my life- inducing me to pursue Data Science specializing in ML & Deep Learning, I’ve been awe-struck every single time comprehending working mechanism of the feats achieved in this field, which seems creativity is fused with math wherein numbers tend to be more reliable then human instincts & have a greater impact in making decisions.
+Surfing through the internet for a Data Scientist only to stumble upon this portfolio, a coincidence? Nah! You’ve landed just in right place. Myself Arif, a Data Scientist & an ML Enthusiast with a passion for automation & zeal to craft solutions that requires minimal or no effort eradicating human intervention. I love fiddling around Datasets, exploring relations, extracting significant insights, retrieving never-heard-before stories, scrutinizing data not only to the point where all WHYs have been answered but uprooting causes to problems one never knew existed in first place, leveraging them to train apt ML algorithms to be able to tackle challenges similar to or even better then humans.📊🔍
 
-I hold a Masters Degree in Data Science at [__Northeastern University - Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) and a Bachelor's Degree in Computer Engineering at [__Gujarat Technological University - Pacific School of Engineering__](https://www.gtu.ac.in). I am an experienced Data Scientist that can build end-to-end Data Science and Machine Learning Projects. Furthermore, I have a strong practical and theoretical experience in the development of Machine Learning, Deep Learning and AI Models. 
+Fueled by passion for this domain, preparing myself for an extended progressive career that provides ample opportunities for constantly growing & learning in the field. Ever since my first encounter of stunning capabilities of AI, that triggered the course of events of my life- inducing me to pursue Data Science specializing in ML & Deep Learning, I’ve been awe-struck every single time comprehending working mechanism of the feats achieved in this field, which seems creativity is fused with math wherein numbers tend to be more reliable then human instincts & have a greater impact in making decisions.🤖📈
 
-I worked at companies such as [__PUMA North America__](https://us.puma.com/us/en) and [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) as a __Data Scientist__ and __Graduate Teaching Assistant__, generating valuable information, insights and conclusion from data and contributing field knowledge to the peers and fellow students of Northeastern. This portfolio demonstrates a wide range of skills that I possess in solving and tackling machine learning problems and is a proof of my work of contribution to the field of Data Science. 
+I hold a Masters Degree in Data Science at [__Northeastern University - Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) and a Bachelor's Degree in Computer Engineering at [__Gujarat Technological University - Pacific School of Engineering__](https://www.gtu.ac.in). I am an experienced Data Scientist that can build end-to-end Data Science and Machine Learning Projects. Furthermore, I have a strong practical and theoretical experience in the development of Machine Learning, Deep Learning and AI Models.🎓💻
 
-![](https://github.com/suhasmaddali/Images/blob/main/GitHub%20Main%20Image.jpg)
+I worked at companies such as [__PUMA North America__](https://us.puma.com/us/en) and [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) as a __Data Scientist__ and __Graduate Teaching Assistant__, generating valuable information, insights and conclusion from data and contributing field knowledge to the peers and fellow students of Northeastern. This portfolio demonstrates a wide range of skills that I possess in solving and tackling machine learning problems and is a proof of my work of contribution to the field of Data Science.📚💡
+
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
