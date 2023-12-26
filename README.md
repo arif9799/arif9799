@@ -56,8 +56,10 @@ I worked at companies such as [__PUMA North America__](https://us.puma.com/us/en
 These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
 <br>
 - Languages that I am proficient with
+  
   - ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
   - ![](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white)
+  - ![](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
   - ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   - ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   - ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -65,6 +67,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 <br>
 
 - Some relevant and Important Packages that I am well versed with
+  
   - ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
   - ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
   - ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -76,11 +79,13 @@ These valuable tools and techniques have empowered me to successfully develop an
 <br>
 
 - A few other packages that I am familiar with
+  
   - ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
   - ![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 <br>
 
 - IDEs
+  
    - ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
    - ![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
    - ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -90,6 +95,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 <br>
 
 -  Basic tools
+  
    - ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
    - ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
    - ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
