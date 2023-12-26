@@ -48,12 +48,12 @@ I worked at companies such as [__PUMA North America__](https://us.puma.com/us/en
 
 <br>
 <br>
-<h2>Skills</h2>
+<h2>Skills!</h2>
 <p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/Images/Skills.jpg" width="250" alt="Description">
 </p>
 
-These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
+The following fragments of tools and technologies along with essentials, define my Capabilities and go-to stack for solving Data Science Problem
 <br>
 
 - Code and Cloud Mastery
