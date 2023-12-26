@@ -1,4 +1,6 @@
- <h1 align = "center">Hi there, I am Arif! </h1>
+<h1 align = "center">Hi there, I am Arif! </h1>
+<br>
+<br>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-sarfaraz-waghbakriwala-9424a1225/)&emsp;&emsp;
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arifwaghbakriwala97)&emsp;&emsp;
@@ -10,11 +12,12 @@
 
 
 
-
+<br>
+<br>
 <h2 style='italic'> Snapshot... Me, Myself! </h2>
 
 <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/Images/Snapshot.jpg" width="150" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/Images/Snapshot.jpg" width="250" alt="Description">
 </p>
 
 👋 Hi everyone,
@@ -26,7 +29,8 @@ I've tackled impactful projects at PUMA North America, automating outlier detect
 My technical strengths include Time Series Analysis, Machine Learning, Data Mining, SQL and Statistics. Proficient in Python, R, C/C++ and key libraries like Pandas, Scikit-learn, Numpy, Tensorflow, PyTorch, Keras, etc 📚🖥️. 🗣️📚 Let's connect and explore the world of data together! 🌐✨
 
 
-
+<br>
+<br>
 <h2> In the Pages of My Journey! </h2>
 
 <p align="center">
@@ -42,6 +46,8 @@ I hold a Masters Degree in Data Science at [__Northeastern University - Khoury C
 I worked at companies such as [__PUMA North America__](https://us.puma.com/us/en) and [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) as a __Data Scientist__ and __Graduate Teaching Assistant__, generating valuable information, insights and conclusion from data and contributing field knowledge to the peers and fellow students of Northeastern. This portfolio demonstrates a wide range of skills that I possess in solving and tackling machine learning problems and is a proof of my work of contribution to the field of Data Science.📚💡
 
 
+<br>
+<br>
 <h2>Skills</h2>
 <p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/Images/Skills.jpg" width="250" alt="Description">
@@ -58,10 +64,20 @@ These valuable tools and techniques have empowered me to successfully develop an
   - ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
    
  
-- Packages that I am well versed with
+- Some relevant and Important Packages that I am well versed with
+  - ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+  - ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+  - ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  - ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  - ![](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+  - ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  - ![]()
+  - ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+  - ![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
-- Packages that I am familiar with
-  - ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+- A few other packages that I am familiar with
+  - ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+  - ![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
 - IDEs
 
