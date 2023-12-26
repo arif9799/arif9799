@@ -1,30 +1,37 @@
  <h1 align = "center">Hi there, I am Arif! </h1>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-sarfaraz-waghbakriwala-9424a1225/)&emsp;&emsp;
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifwaghbakriwala97@gmail.com)&emsp;&emsp;
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arifwaghbakriwala97)&emsp;&emsp;
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arif.waghbakriwala.9)&emsp;&emsp;
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/arif97)&emsp;&emsp;
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ArifWaghbakriwala/featured)&emsp;&emsp;
 [![](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://in.pinterest.com/arifwaghbakriwala/)&emsp;&emsp;
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://in.pinterest.com/arifwaghbakriwala/)&emsp;&emsp;
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/arif_wb/)&emsp;&emsp;
 
 
 
 
-I'm passionate about __Machine Learning__, __Data Science__, __Large Language Models (LLMs)__ and __Generative AI__. The rapid rate at which there is advancement in computing power and the freedom to take a large volume of data pushes the field of Artificial Intelligence to a whole new level.
+<h2 style='italic'> Snapshot... Me, Myself! </h2>
+
+👋 Hi everyone,
+
+I'm Arif, a Data Scientist with a Master's in Data Science from Northeastern University. 🚀 My expertise lies in transforming complex datasets into actionable insights and crafting end-to-end business solutions. 🧠 I specialize in automating decision-making through innovative modeling techniques and I excel at unraveling untold data stories and presenting complex concepts in creative ways, including animations! 📊✨
+
+I've tackled impactful projects at PUMA North America, automating outlier detection in retail sales data and building sales and demand forecasting system for optimizing raw materials inventory. 💼 🎓 I also served as a Graduate Teaching Assistant for CS7150-Deep Learning and DS4400- Machine Learning and Data Mining, designing homeworks & rubrics, grading and conducting Office Hours to Simplify concepts.
+
+My technical strengths include Time Series Analysis, Machine Learning, Data Mining, SQL and Statistics. Proficient in Python, R, C/C++ and key libraries like Pandas, Scikit-learn, Numpy, Tensorflow, PyTorch, Keras, etc 📚🖥️. 🗣️📚 Let's connect and explore the world of data together! 🌐✨
 
 
 
-<h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
+<h2> In the Pages of My Journey! </h2>
 
-I hold a Masters Degree in Data Science at [__Northeastern University - Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/). I have *4+ years* of experience building and deploying machine learning and deep learning models. 
+Surfing through the internet for a Data Scientist only to stumble upon this portfolio, a coincidence? Nah! You’ve landed just in right place. Myself Arif, a Data Scientist & an ML Enthusiast with a passion for automation & zeal to craft solutions that requires minimal or no effort eradicating human intervention. I love fiddling around Datasets, exploring relations, extracting significant insights, retrieving never-heard-before stories, scrutinizing data not only to the point where all WHYs have been answered but uprooting causes to problems one never knew existed in first place, leveraging them to train apt ML algorithms to be able to tackle challenges similar to or even better then humans.
 
-Furthermore, I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
+Fueled by passion for this domain, preparing myself for an extended progressive career that provides ample opportunities for constantly growing & learning in the field. Ever since my first encounter of stunning capabilities of AI, that triggered the course of events of my life- inducing me to pursue Data Science specializing in ML & Deep Learning, I’ve been awe-struck every single time comprehending working mechanism of the feats achieved in this field, which seems creativity is fused with math wherein numbers tend to be more reliable then human instincts & have a greater impact in making decisions.
 
-I completed courses such as Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/) and Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/). These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from pharmaceutical, agricultural, retail, manufacturing and automobile industries. 
+I hold a Masters Degree in Data Science at [__Northeastern University - Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) and a Bachelor's Degree in Computer Engineering at [__Gujarat Technological University - Pacific School of Engineering__](https://www.gtu.ac.in). I am an experienced Data Scientist that can build end-to-end Data Science and Machine Learning Projects. Furthermore, I have a strong practical and theoretical experience in the development of Machine Learning, Deep Learning and AI Models. 
 
-I worked at companies such as [__NVIDIA__](https://www.nvidia.com/en-us/), [__Solbots Technologies Private Limited__](https://www.solbots.in/) and [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) as a __Data Scientist__ and generated value from data. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
+I worked at companies such as [__PUMA North America__](https://us.puma.com/us/en) and [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) as a __Data Scientist__ and __Graduate Teaching Assistant__, generating valuable information, insights and conclusion from data and contributing field knowledge to the peers and fellow students of Northeastern. This portfolio demonstrates a wide range of skills that I possess in solving and tackling machine learning problems and is a proof of my work of contribution to the field of Data Science. 
 
 ![](https://github.com/suhasmaddali/Images/blob/main/GitHub%20Main%20Image.jpg)
 
