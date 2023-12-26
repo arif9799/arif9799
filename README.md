@@ -17,7 +17,7 @@
 <h2 style='italic'> Snapshot... Me, Myself! </h2>
 
 <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/Images/Snapshot2.jpg" width="250" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/SnapShot2.gif" width="250" alt="Description">
 </p>
 
 👋 Hi everyone,
@@ -34,7 +34,7 @@ My technical strengths include Time Series Analysis, Machine Learning, Data Mini
 <h2> In the Pages of My Journey! </h2>
 
 <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/Images/AboutMe.jpg" width="250" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/AboutMe2.gif" width="250" alt="Description">
 </p>
 
 Surfing through the internet for a Data Scientist only to stumble upon this ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139), a coincidence? Nah! You’ve landed just in right place. Myself Arif, a Data Scientist & an ML Enthusiast with a passion for automation & zeal to craft solutions that requires minimal or no effort eradicating human intervention. I love fiddling around Datasets, exploring relations, extracting significant insights, retrieving never-heard-before stories, scrutinizing data not only to the point where all WHYs have been answered but uprooting causes to problems one never knew existed in first place, leveraging them to train apt ML algorithms to be able to tackle challenges similar to or even better then humans.📊🔍
@@ -50,7 +50,7 @@ I worked at companies such as [__PUMA North America__](https://us.puma.com/us/en
 <br>
 <h2>Skills!</h2>
 <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/Images/Skills.jpg" width="250" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/skillsstart.gif" width="250" alt="Description">
 </p>
 
 The following fragments of tools and technologies along with essentials, define my Capabilities and go-to stack for solving Data Science Problem
@@ -134,6 +134,10 @@ The following fragments of tools and technologies along with essentials, define 
    - ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
    - ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
  <br>
+
+ <p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Skillsend.gif" width="250" alt="Description">
+</p>
 
 
 
