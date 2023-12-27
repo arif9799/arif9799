@@ -172,11 +172,33 @@ The following fragments of tools and technologies along with essentials, define 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <h1> 
   
-  _Career Kaleidoscope!_ </h1>
+  _Career Kaleidoscope!_ 
+  </h1>
+  <br>
+  
 <h3>
   
-  [__PUMA North America__](https://us.puma.com/us/en) - _Data Scientist_
+  [__PUMA North America__](https://us.puma.com/us/en) - _Data Scientist July'22- December'22_
 </h3>
+<br>
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/PUMA.gif" width="250" alt="Description">
+</p>
+
+
+<h5>
+  
+  _Successfully delivered and deployed two fully fledged ML Production Grade Projects, that are still in effect today!_
+</h5>
+
+- Sales and Demand Forecasting
+  - _Introduction:_ As a Data Scientist at PUMA, I led a pivotal project focused on Statistical Modeling and Forecasting for Apparel Manufacturers. The objective was to enhance preparedness for unprecedented demands from strategic Clients.
+  - _Problem Statement:_ PUMA, a major Apparel Manufacturer, faced challenges fulfilling weekly orders from Amazon due to unpredictable demands and raw material shortages. This led to huge potential annual losses off the tables. The primary hurdle was the inability to strategically stock raw materials, impacting timely order fulfillment.
+  - _Approach:_ Given the automated nature of Amazon's orders, the project involved collecting and analyzing data on weekly orders from Amazon bots since 2019. The emphasis was on Machine Learning, Statistical Modeling, Predictive Analysis and Time Series techniques.
+  - _Data Analysis and Cleaning:_ Detailed exploratory data analysis (EDA) identifying patterns and behaviors in orders. Categorical encoding and feature engineering were applied to handle the intricacies of product variability. The dataset, comprising 2M rows and 100k unique products, underwent meticulous cleaning, systematic time series imputation at regular intervals/frequency and filtering, inflating the number of observations to 12M, focusing on the top 2k revenue-generating products.
+  - _Leveraging Time Series Models:_ Various time series models, including AutoRegressive, Moving Averages and Deep Learning models, were employed for Univariate & Multivariate Panel Data Time Series Modeling. The ensemble technique significantly improved accuracy, reducing RMSE by 34% from 54 to 20.
+  - _Building and deploying ML Pipeline:_ The project culminated in an ML Pipeline orchestrated in Azure Synapse Analytics with feature stores, training scripts and model registries. The ML Pipeline retrieved semi-structured data from MSSQL Server, cleaned and synthesized it, and fed it into different models. The Ensemble Container aggregated predictions, resulting in precise forecasts. Key Performance Indicators (KPIs) were incorporated, and the entire prototype was well-documented. This project not only mitigated operational challenges for PUMA but also showcased my proficiency in data science methodologies, statistical modeling and successful deployment of ML solutions.
+
 
 
 ## 🎬📠 My GitHub Summary: 
