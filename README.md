@@ -199,7 +199,7 @@ The following fragments of tools and technologies along with essentials, define 
 <br>
 
 <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/timeseries.gif" width="150" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/timeseries.gif" width="250" alt="Description">
 </p>
 <br>
 
@@ -224,7 +224,7 @@ The following fragments of tools and technologies along with essentials, define 
 <br>
 
 <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/AnomalyDetection.gif" width="150" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/AnomalyDetection.gif" width="250" alt="Description">
 </p>
 <br>
 
@@ -239,6 +239,29 @@ The following fragments of tools and technologies along with essentials, define 
   - _Identifying Outliers:_ A discrepancy threshold was established for back-test predictions against actual data. A voting system across models was implemented to classify data points as anomalies. This process was extended to all retail stores, significantly improving anomaly detection precision.
   
   - _Results:_ The implemented framework reduced man-hours for identifying outliers by **60%**. Rigorous evaluation of Key Performance Indicators **(KPIs)** and hypothesis testing was conducted. Interfaces using tkinter were developed for result display, showcasing flagged outliers and identifying specific retail stores contributing to sales mismatches. The architecture was encapsulated using auto_py_to_exe for seamless execution on any system.
+<br>
+<br>
+<br>
+<br>
+
+
+
+<h3>
+  
+  [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) at Northeastern University - _Graduate TA Jan'22- December'22_
+</h3>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/northeastern.gif" width="250" alt="Description">
+</p>
+<br>
+
+<h4>
+  
+  _Successfully delivered and deployed two fully fledged ML Production Grade Projects, that are still in effect today!_
+</h4>
+<br>
 
 
 
