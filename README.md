@@ -287,14 +287,18 @@ The following fragments of tools and technologies along with essentials, define 
   </h1>
   <br>
 
-<h3>
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/almamater.gif" width="250" alt="Description">
+</p>
+
+<h4>
     
   - [Khoury College of Computer Sciences, Northeastern University](https://www.northeastern.edu/): Masters of Science in Data Science
   - [Pacific School of Engineering, Gujarat Technological University](https://www.gtu.ac.in/): Bachelors of Engineering in Computer Engineering
   - [Radiant English Academy](https://www.radiant.edu.in/): High School
   - [Sanjeewan Vidyalaya](https://www.facebook.com/sanjeewanpanchgani/): Junior School
     
-  </h3>
+  </h4>
 
   
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
