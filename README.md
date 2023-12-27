@@ -174,7 +174,7 @@ The following fragments of tools and technologies along with essentials, define 
   
   _Career Kaleidoscope!_ 
   </h1>
-  <br>
+<br>
   
 <h3>
   
@@ -262,6 +262,21 @@ The following fragments of tools and technologies along with essentials, define 
   _Successfully delivered and deployed two fully fledged ML Production Grade Projects, that are still in effect today!_
 </h4>
 <br>
+
+- CS 7150: Deep Learning
+  - The course curriculum needed enhancement to emphasize practical applications of Neural Network Theories including Diffusion and Large Language Models
+  - Undertook the initiative to restructure the curriculum and create a more interactive learning environment by helping build the logistics and infrastructure.
+  - Designed and implemented advanced homework assignments on topics like Transformers and Diffusion Models from scratch
+  - Set up discussion panels on the latest AI research papers, invoking live discussions while fostering a **90%** increase in student participation.
+  - The restructured curriculum resulted in students not only grasping theoretical concepts but also understanding their real-world relevance.
+  
+- DS 4400: ML & Data Mining
+  - The course aimed to provide students with a comprehensive understanding of Data Science, Machine Learning and Advanced Predictive Analytics.
+  - My role was integral to bridging theoretical knowledge with hands-on experience in building ML Models from scratch in Python
+  - Simplified complex academic theories into simple laymen terms, translating them into tangible real-world applications
+  - Guided students through experiential learning projects to provide a practical bridge between theory and application.
+  - Contributed to comprehensive course coverage, ensuring a strong foundation in both theory and practice.
+  - Students gained a robust understanding of the subject, applying theoretical knowledge to real-world scenarios successfully.
 
 
 
