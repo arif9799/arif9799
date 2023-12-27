@@ -256,11 +256,6 @@ The following fragments of tools and technologies along with essentials, define 
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/northeastern.gif" width="250" alt="Description">
 </p>
 <br>
-
-<h4>
-  
-  _Successfully delivered and deployed two fully fledged ML Production Grade Projects, that are still in effect today!_
-</h4>
 <br>
 
 - CS 7150: Deep Learning
@@ -269,6 +264,10 @@ The following fragments of tools and technologies along with essentials, define 
   - Designed and implemented advanced homework assignments on topics like Transformers and Diffusion Models from scratch
   - Set up discussion panels on the latest AI research papers, invoking live discussions while fostering a **90%** increase in student participation.
   - The restructured curriculum resulted in students not only grasping theoretical concepts but also understanding their real-world relevance.
+ 
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/gta.gif" width="250" alt="Description">
+</p>
   
 - DS 4400: ML & Data Mining
   - The course aimed to provide students with a comprehensive understanding of Data Science, Machine Learning and Advanced Predictive Analytics.
