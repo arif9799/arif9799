@@ -241,9 +241,6 @@ The following fragments of tools and technologies along with essentials, define 
   - _Results:_ The implemented framework reduced man-hours for identifying outliers by **60%**. Rigorous evaluation of Key Performance Indicators **(KPIs)** and hypothesis testing was conducted. Interfaces using tkinter were developed for result display, showcasing flagged outliers and identifying specific retail stores contributing to sales mismatches. The architecture was encapsulated using auto_py_to_exe for seamless execution on any system.
 <br>
 <br>
-<br>
-<br>
-
 
 
 <h3>
@@ -276,6 +273,38 @@ The following fragments of tools and technologies along with essentials, define 
   - Guided students through experiential learning projects to provide a practical bridge between theory and application.
   - Contributed to comprehensive course coverage, ensuring a strong foundation in both theory and practice.
   - Students gained a robust understanding of the subject, applying theoretical knowledge to real-world scenarios successfully.
+ 
+<br>
+<br>
+<br>
+<br>
+ 
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<h1> 
+  
+  _Alma Mater_ 
+  </h1>
+  <br>
+
+<h3>
+    
+  - [Khoury College of Computer Sciences, Northeastern University](https://www.northeastern.edu/): Masters of Science in Data Science
+  - [Pacific School of Engineering, Gujarat Technological University](https://www.gtu.ac.in/): Bachelors of Engineering in Computer Engineering
+  - [Radiant English Academy](https://www.radiant.edu.in/): High School
+  - [Sanjeewan Vidyalaya](https://www.facebook.com/sanjeewanpanchgani/): Junior School
+    
+  </h3>
+
+  
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<h1> 
+  
+  _Project Portfolio: Crafting Solutions_ 
+  </h1>
+
+  The following section will showcase my skills further utilized in personal and curriculum Projects. I invite you to explore the github profile and readme files of the Projects for further information as this is just a short summary of my GitHub Profile
+  
 
 
 
