@@ -190,14 +190,37 @@ The following fragments of tools and technologies along with essentials, define 
   
   _Successfully delivered and deployed two fully fledged ML Production Grade Projects, that are still in effect today!_
 </h5>
+<br>
 
 - Sales and Demand Forecasting
+
+
   - _Introduction:_ As a Data Scientist at PUMA, I led a pivotal project focused on Statistical Modeling and Forecasting for Apparel Manufacturers. The objective was to enhance preparedness for unprecedented demands from strategic Clients.
+    
   - _Problem Statement:_ PUMA, a major Apparel Manufacturer, faced challenges fulfilling weekly orders from Amazon due to unpredictable demands and raw material shortages. This led to huge potential annual losses off the tables. The primary hurdle was the inability to strategically stock raw materials, impacting timely order fulfillment.
+    
   - _Approach:_ Given the automated nature of Amazon's orders, the project involved collecting and analyzing data on weekly orders from Amazon bots since 2019. The emphasis was on Machine Learning, Statistical Modeling, Predictive Analysis and Time Series techniques.
+    
   - _Data Analysis and Cleaning:_ Detailed exploratory data analysis (EDA) identifying patterns and behaviors in orders. Categorical encoding and feature engineering were applied to handle the intricacies of product variability. The dataset, comprising 2M rows and 100k unique products, underwent meticulous cleaning, systematic time series imputation at regular intervals/frequency and filtering, inflating the number of observations to 12M, focusing on the top 2k revenue-generating products.
+    
   - _Leveraging Time Series Models:_ Various time series models, including AutoRegressive, Moving Averages and Deep Learning models, were employed for Univariate & Multivariate Panel Data Time Series Modeling. The ensemble technique significantly improved accuracy, reducing RMSE by 34% from 54 to 20.
+    
   - _Building and deploying ML Pipeline:_ The project culminated in an ML Pipeline orchestrated in Azure Synapse Analytics with feature stores, training scripts and model registries. The ML Pipeline retrieved semi-structured data from MSSQL Server, cleaned and synthesized it, and fed it into different models. The Ensemble Container aggregated predictions, resulting in precise forecasts. Key Performance Indicators (KPIs) were incorporated, and the entire prototype was well-documented. This project not only mitigated operational challenges for PUMA but also showcased my proficiency in data science methodologies, statistical modeling and successful deployment of ML solutions.
+
+- Anomaly Detection
+
+  
+  - _Introduction:_ This project centered on Statistical Modeling and Backtest Predictions. The goal was to automate the identification and rectification of outliers in retail sales data, enhancing the integrity of month-end analytical reports.
+    
+  - _Problem Statement:_ Addressing intermittent inactivity in PUMA's global retail store networks, the project aimed to resolve incomplete data transmissions and gaps in the centralized database. The manual identification and rectification of these gaps were hindered by the high volume and frequency of sales transactions.
+  
+  - _Approach:_ Utilizing Python's 'openpyxl' library, I automated Excel refreshes to fetch daily retail sales data. The data was then aggregated into hourly intervals, transforming irregular frequencies into a structured time series format. Rolling and expanding windows, utilizing numpy, pandas and ADTK, were employed for different statistics features.
+  
+  - _Model Training:_ The time series data was processed to standardize irregular transaction frequencies across stores. Statistical feature engineering involved rolling and expanding window techniques. Separate Univariate & Multivariate time series models for each rolling statistic were trained using ADTK and Scikit-learn. Models were validated and tested on an **80-20** split to ensure accuracy and reliability.
+  
+  - _Identifying Outliers:_ A discrepancy threshold was established for back-test predictions against actual data. A voting system across models was implemented to classify data points as anomalies. This process was extended to all retail stores, significantly improving anomaly detection precision.
+  
+  - _Results:_ The implemented framework reduced man-hours for identifying outliers by **60%**. Rigorous evaluation of Key Performance Indicators **(KPIs)** and hypothesis testing was conducted. Interfaces using tkinter were developed for result display, showcasing flagged outliers and identifying specific retail stores contributing to sales mismatches. The architecture was encapsulated using auto_py_to_exe for seamless execution on any system.
 
 
 
