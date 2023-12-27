@@ -181,19 +181,27 @@ The following fragments of tools and technologies along with essentials, define 
   [__PUMA North America__](https://us.puma.com/us/en) - _Data Scientist July'22- December'22_
 </h3>
 <br>
+
 <p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/PUMA.gif" width="250" alt="Description">
 </p>
+<br>
 
-
-<h5>
+<h4>
   
   _Successfully delivered and deployed two fully fledged ML Production Grade Projects, that are still in effect today!_
+</h4>
+<br>
+
+<h5 align="center">
+  Sales and Demand Forecasting
 </h5>
 <br>
 
-- Sales and Demand Forecasting
-
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/timeseries.gif" width="150" alt="Description">
+</p>
+<br>
 
   - _Introduction:_ As a Data Scientist at PUMA, I led a pivotal project focused on Statistical Modeling and Forecasting for Apparel Manufacturers. The objective was to enhance preparedness for unprecedented demands from strategic Clients.
     
@@ -207,9 +215,19 @@ The following fragments of tools and technologies along with essentials, define 
     
   - _Building and deploying ML Pipeline:_ The project culminated in an ML Pipeline orchestrated in Azure Synapse Analytics with feature stores, training scripts and model registries. The ML Pipeline retrieved semi-structured data from MSSQL Server, cleaned and synthesized it, and fed it into different models. The Ensemble Container aggregated predictions, resulting in precise forecasts. Key Performance Indicators (KPIs) were incorporated, and the entire prototype was well-documented. This project not only mitigated operational challenges for PUMA but also showcased my proficiency in data science methodologies, statistical modeling and successful deployment of ML solutions.
 
-- Anomaly Detection
+<br>
+<br>
 
-  
+<h5 align="center">
+  Anomaly Detection
+</h5>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/AnomalyDetection.gif" width="150" alt="Description">
+</p>
+<br>
+
   - _Introduction:_ This project centered on Statistical Modeling and Backtest Predictions. The goal was to automate the identification and rectification of outliers in retail sales data, enhancing the integrity of month-end analytical reports.
     
   - _Problem Statement:_ Addressing intermittent inactivity in PUMA's global retail store networks, the project aimed to resolve incomplete data transmissions and gaps in the centralized database. The manual identification and rectification of these gaps were hindered by the high volume and frequency of sales transactions.
