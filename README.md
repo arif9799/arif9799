@@ -531,7 +531,7 @@ Started with extraction of demographic economic data from ‘World Development I
 <br>
 
 <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/GDPVisualisation.gif" width="250" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/MediumSentimentalRecSys.gif" width="250" alt="Description">
 </p>
 <br>
 
@@ -552,7 +552,7 @@ In this Article
 <br>
 
 <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/GDPVisualisation.gif" width="250" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Mediumtimeseriespredinterval.gif" width="250" alt="Description">
 </p>
 <br>
 
@@ -573,7 +573,7 @@ In this Article
 <br>
 
 <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/GDPVisualisation.gif" width="250" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/MediumAttnNotEnough2.gif" width="250" alt="Description">
 </p>
 <br>
 
