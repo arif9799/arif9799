@@ -233,6 +233,31 @@ The following fragments of tools and technologies along with essentials, define 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <h1> 
   
+  _Alma Mater_ 
+  </h1>
+  <br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/almamater.gif" width="250" alt="Description">
+</p>
+
+<h4>
+    
+  - [Khoury College of Computer Sciences, Northeastern University](https://www.northeastern.edu/): Masters of Science in Data Science
+  - [Pacific School of Engineering, Gujarat Technological University](https://www.gtu.ac.in/): Bachelors of Engineering in Computer Engineering
+  - [Radiant English Academy](https://www.radiant.edu.in/): High School
+  - [Sanjeewan Vidyalaya](https://www.facebook.com/sanjeewanpanchgani/): Junior School
+    
+  </h4>
+<br>
+<br>
+<br>
+<br>
+
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<h1> 
+  
   _Career Kaleidoscope!_ 
   </h1>
 <br>
@@ -335,31 +360,6 @@ The following fragments of tools and technologies along with essentials, define 
   - Contributed to comprehensive course coverage, ensuring a strong foundation in both theory and practice.
   - Students gained a robust understanding of the subject, applying theoretical knowledge to real-world scenarios successfully.
  
-<br>
-<br>
-<br>
-<br>
- 
-
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<h1> 
-  
-  _Alma Mater_ 
-  </h1>
-  <br>
-
-<p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/almamater.gif" width="250" alt="Description">
-</p>
-
-<h4>
-    
-  - [Khoury College of Computer Sciences, Northeastern University](https://www.northeastern.edu/): Masters of Science in Data Science
-  - [Pacific School of Engineering, Gujarat Technological University](https://www.gtu.ac.in/): Bachelors of Engineering in Computer Engineering
-  - [Radiant English Academy](https://www.radiant.edu.in/): High School
-  - [Sanjeewan Vidyalaya](https://www.facebook.com/sanjeewanpanchgani/): Junior School
-    
-  </h4>
 <br>
 <br>
 <br>
