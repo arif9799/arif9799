@@ -327,16 +327,10 @@ The following fragments of tools and technologies along with essentials, define 
 
 <h3 align="center">
   
-  VISUAL GROUNDING, _Deep Learning_
+  [VISUAL GROUNDING, _Deep Learning_](https://github.com/arif9799/Deep-Learning-Computer-Vision---Visual-Grounding)
 </h3>
 <h3 align="center">
-  <a href="https://github.com/arif9799/Deep-Learning-Computer-Vision---Visual-Grounding">
-    VISUAL GROUNDING, _Deep Learning_
-    </a>
-</h3>
-<h3 align="center">
-  <a href="https://github.com/arif9799/Deep-Learning-Computer-Vision---Visual-Grounding" style="text-decoration: underline;">VISUAL GROUNDING, _Deep Learning_</a>
-</h3>
+
 
 
 <br>
