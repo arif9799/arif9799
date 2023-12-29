@@ -515,8 +515,73 @@ Started with extraction of demographic economic data from ‘World Development I
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <h1> 
   
-  _Medium Blogs_ 
+  _Medium Blogs: Turning Geek-Speak into Shakespeare, One Article at a Time._ 
   </h1>
+
+
+<!---------------------------------------------------------------------->
+<p align="center">
+  
+  ___
+</p>
+<h3 align="center">
+  
+  [Sentimental Recommendation System, _Opinion Mining_](https://medium.com/@arifwaghbakriwala97/review-based-recommendation-system-67d88e167b06)
+</h3>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/GDPVisualisation.gif" width="250" alt="Description">
+</p>
+<br>
+
+In this Article
+
+<br>
+<br>
+
+<!---------------------------------------------------------------------->
+<p align="center">
+  
+  ___
+</p>
+<h3 align="center">
+  
+  [Time Series Prediction Intervals, _since predictions alone are not enough_](https://medium.com/@arifwaghbakriwala97/time-series-prediction-intervals-1866545a5554)
+</h3>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/GDPVisualisation.gif" width="250" alt="Description">
+</p>
+<br>
+
+In this Article
+
+<br>
+<br>
+
+<!---------------------------------------------------------------------->
+<p align="center">
+  
+  ___
+</p>
+<h3 align="center">
+  
+  [Attention is not Enough, _RNNs to Transformers, the Journey!_](https://medium.com/@arifwaghbakriwala97/attention-is-not-enough-1571328511a5)
+</h3>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/GDPVisualisation.gif" width="250" alt="Description">
+</p>
+<br>
+
+In this Article
+
+<br>
+<br>
+
 
 
 
