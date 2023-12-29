@@ -4,6 +4,8 @@
 </h1>
 <br>
 <br>
+<br>
+<br>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-sarfaraz-waghbakriwala-9424a1225/)&emsp;&emsp;
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arifwaghbakriwala97)&emsp;&emsp;
@@ -17,10 +19,14 @@
 <br>
 <br>
 
+
+<!--SOON TO PUT PERSONAL GIF-->
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <h1> 
   
   _Snapshot... Me, Myself!_ </h1>
+<br>
+  
 
 
 <p align="center">
@@ -34,6 +40,7 @@ I'm Arif, a Data Scientist with a Master's in Data Science from Northeastern Uni
 I've tackled impactful projects at PUMA North America, automating outlier detection in retail sales data and building sales and demand forecasting system for optimizing raw materials inventory. 💼 🎓 I also served as a Graduate Teaching Assistant for CS7150-Deep Learning and DS4400- Machine Learning and Data Mining, designing homeworks & rubrics, grading and conducting Office Hours to Simplify concepts.
 
 My technical strengths include Time Series Analysis, Machine Learning, Data Mining, SQL and Statistics. Proficient in Python, R, C/C++ and key libraries like Pandas, Scikit-learn, Numpy, Tensorflow, PyTorch, Keras, etc 📚🖥️. 🗣️📚 Let's connect and explore the world of data together! 🌐✨
+
 <br>
 <br>
 <br>
@@ -45,6 +52,8 @@ My technical strengths include Time Series Analysis, Machine Learning, Data Mini
 <h1> 
   
   _In the Pages of My Journey!_ </h1>
+<br>
+
 
 <p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/AboutMe2.gif" width="250" alt="Description">
@@ -66,6 +75,7 @@ I worked at companies such as [__PUMA North America__](https://us.puma.com/us/en
 <h1>
   
   _Skills!_ </h1>
+<br>
 
 <p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/skillsstart.gif" width="250" alt="Description">
@@ -194,7 +204,7 @@ The following fragments of tools and technologies along with essentials, define 
 <br>
 
 <h5 align="center">
-  Sales and Demand Forecasting
+  SALES AND DEMAND FORECASTING
 </h5>
 <br>
 
@@ -219,7 +229,7 @@ The following fragments of tools and technologies along with essentials, define 
 <br>
 
 <h5 align="center">
-  Anomaly Detection
+  ANOMALY DETECTION
 </h5>
 <br>
 
@@ -311,10 +321,34 @@ The following fragments of tools and technologies along with essentials, define 
   _Project Portfolio: Crafting Solutions_ 
   </h1>
 
-  The following section will showcase my skills further utilized in personal and curriculum Projects. I invite you to explore the github profile and readme files of the Projects for further information as this is just a short summary of my GitHub Profile
+  The following section will showcase my skills further utilized in personal and curriculum Projects. I invite you to explore the github profile and readme files of the Projects for further information as this is just a short summary into the vast array of possibilities where my skills can be applied, post collaboration with SMEs.
+  <br>
+  <br>
+
+<h3 align="center">
   
+  VISUAL GROUNDING, _Deep Learning_
+</h3>
+<h3 align="center">
+  <a href="https://github.com/arif9799/Deep-Learning-Computer-Vision---Visual-Grounding">
+    VISUAL GROUNDING, _Deep Learning_
+    </a>
+</h3>
+<h3 align="center">
+  <a href="https://github.com/arif9799/Deep-Learning-Computer-Vision---Visual-Grounding" style="text-decoration: underline;">VISUAL GROUNDING, _Deep Learning_</a>
+</h3>
 
 
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/visualgrounding.gif" width="250" alt="Description">
+</p>
+<br>
+
+ You speak, We'll find it!
+
+Used an API for accessing flickr30k dataset to extract entities of Annotation (B-box), Phrases & Images, assembling pipeline to extract, transform & collate from multiple data source. Then, Pre-calculated high level general representation embeddings of Images & Textual content using Pre-trained Vision Transformers & BERT respectively. Moved on to Build & train baseline Transformer Encoder-Decoder Model on concatenated embeddings of image and text, to predict B-boxes with 75% IoU achieving an accuracy of 58% that can significantly spot objects in images as described by corresponding context provided. Also, developed and experimented light-weight architectures like Textual-Encoder & Decoder, Vision-Encoder & Decoder and Decoder Only Network with equivalent performance that outperforms the baseline models.
 
 ## 🎬📠 My GitHub Summary: 
 
