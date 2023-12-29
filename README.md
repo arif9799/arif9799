@@ -2,6 +2,7 @@
   
   _Hi there, I am Arif!_
 </h1>
+
 <br>
 <br>
 <br>
@@ -326,6 +327,11 @@ The following fragments of tools and technologies along with essentials, define 
   <br>
 
 <!---------------------------------------------------------------------->
+<p align="center">
+  
+  ___
+</p>
+
 <h3 align="center">
   
   [Visual Grounding, _Deep Learning_](https://github.com/arif9799/Deep-Learning-Computer-Vision---Visual-Grounding)
@@ -344,6 +350,10 @@ Used an API for accessing flickr30k dataset to extract entities of Annotation (B
 <br>
 
 <!---------------------------------------------------------------------->
+<p align="center">
+  
+  ___
+</p>
 <h3 align="center">
   
   [Neural Style Transfer, _Deep Learning_](https://github.com/arif9799/Neural-Style-Transfer---Deep-Learning)
@@ -363,6 +373,10 @@ An endeavor of imposition of an artistic style image onto contents of another, e
 
 
 <!---------------------------------------------------------------------->
+<p align="center">
+  
+  ___
+</p>
 <h3 align="center">
   
   [Sentimental Recommendation System, _Unsupervised ML_](https://github.com/arif9799/Sentimental-Recommendation-System)
@@ -382,6 +396,10 @@ An unsupervised approach to mine opinions, thoughts and emotions based on the ma
 
 
 <!---------------------------------------------------------------------->
+<p align="center">
+  
+  ___
+</p>
 <h3 align="center">
   
   [Feature Analysis, _Supervised ML_](https://github.com/arif9799/Feature-Analysis)
@@ -401,6 +419,10 @@ Initialized with importing primary dataset of 45k+ records, merging it with seco
 
 
 <!---------------------------------------------------------------------->
+<p align="center">
+  
+  ___
+</p>
 <h3 align="center">
   
   [Diabetic Classification, _Supervised ML_](https://github.com/arif9799/Diabetic-Classification)
@@ -420,6 +442,10 @@ Cleaned and preprocessed anthropometric datasets with a whopping 1.8 million obs
 
 
 <!---------------------------------------------------------------------->
+<p align="center">
+  
+  ___
+</p>
 <h3 align="center">
   
   [Product Sales Analysis, _Data Science_](https://github.com/arif9799/Sales-Analysis/blob/main/Sales_Analysis_Online_Store.ipynb)
@@ -439,6 +465,10 @@ Coalesced 180k+ records of sales into a file, performed Data Wrangling & Mining 
 
 
 <!---------------------------------------------------------------------->
+<p align="center">
+  
+  ___
+</p>
 <h3 align="center">
   
   [Life Expectancy Prediction, _Data Science and Supervised ML_](https://github.com/arif9799/LIFE-EXPECTANCY-PREDICTION)
@@ -457,6 +487,10 @@ Forecasted life expectancy by constructing a Linear Regression Model on independ
 <br>
 
 <!---------------------------------------------------------------------->
+<p align="center">
+  
+  ___
+</p>
 <h3 align="center">
   
   [GDP Visualisation, _Data Science and EDA_](https://github.com/arif9799/GDP-Visualisation)
