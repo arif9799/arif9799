@@ -329,10 +329,6 @@ The following fragments of tools and technologies along with essentials, define 
   
   [VISUAL GROUNDING, _Deep Learning_](https://github.com/arif9799/Deep-Learning-Computer-Vision---Visual-Grounding)
 </h3>
-<h3 align="center">
-
-
-
 <br>
 
 <p align="center">
@@ -343,6 +339,27 @@ The following fragments of tools and technologies along with essentials, define 
  You speak, We'll find it!
 
 Used an API for accessing flickr30k dataset to extract entities of Annotation (B-box), Phrases & Images, assembling pipeline to extract, transform & collate from multiple data source. Then, Pre-calculated high level general representation embeddings of Images & Textual content using Pre-trained Vision Transformers & BERT respectively. Moved on to Build & train baseline Transformer Encoder-Decoder Model on concatenated embeddings of image and text, to predict B-boxes with 75% IoU achieving an accuracy of 58% that can significantly spot objects in images as described by corresponding context provided. Also, developed and experimented light-weight architectures like Textual-Encoder & Decoder, Vision-Encoder & Decoder and Decoder Only Network with equivalent performance that outperforms the baseline models.
+
+
+<h3 align="center">
+  
+  [Neural Style Transfer, _Deep Learning_](https://github.com/arif9799/Neural-Style-Transfer---Deep-Learning)
+</h3>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/NeuralStyleTransfer.gif" width="250" alt="Description">
+</p>
+<br>
+
+ The Canvas Conundrum, Imposing Style of an image onto Contents of another
+
+An endeavor of imposition of an artistic style image onto contents of another, employing Transfer Learning concept using pre-trained CNN Model VGG-19. Normalized Images, built content-style loss function & convolved through CNN (with frozen weights) while back-propagating summed loss to Noise Image. Also, performed Hyper-parameter Tuning to find optimal values of Learning Rates, 'ɑ' & 'β' (ɑ,β determine proportion of content & style to be injected) with 21% MSE Loss
+
+
+
+
+
 
 ## 🎬📠 My GitHub Summary: 
 
