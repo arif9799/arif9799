@@ -42,6 +42,8 @@ I've tackled impactful projects at PUMA North America, automating outlier detect
 
 My technical strengths include Time Series Analysis, Machine Learning, Data Mining, SQL and Statistics. Proficient in Python, R, C/C++ and key libraries like Pandas, Scikit-learn, Numpy, Tensorflow, PyTorch, Keras, etc 📚🖥️. 🗣️📚 Let's connect and explore the world of data together! 🌐✨
 
+
+
 <br>
 <br>
 <br>
