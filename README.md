@@ -325,9 +325,10 @@ The following fragments of tools and technologies along with essentials, define 
   <br>
   <br>
 
+<!---------------------------------------------------------------------->
 <h3 align="center">
   
-  [VISUAL GROUNDING, _Deep Learning_](https://github.com/arif9799/Deep-Learning-Computer-Vision---Visual-Grounding)
+  [Visual Grounding, _Deep Learning_](https://github.com/arif9799/Deep-Learning-Computer-Vision---Visual-Grounding)
 </h3>
 <br>
 
@@ -336,11 +337,13 @@ The following fragments of tools and technologies along with essentials, define 
 </p>
 <br>
 
- You speak, We'll find it!
+_You speak, We'll find it!_
 
 Used an API for accessing flickr30k dataset to extract entities of Annotation (B-box), Phrases & Images, assembling pipeline to extract, transform & collate from multiple data source. Then, Pre-calculated high level general representation embeddings of Images & Textual content using Pre-trained Vision Transformers & BERT respectively. Moved on to Build & train baseline Transformer Encoder-Decoder Model on concatenated embeddings of image and text, to predict B-boxes with 75% IoU achieving an accuracy of 58% that can significantly spot objects in images as described by corresponding context provided. Also, developed and experimented light-weight architectures like Textual-Encoder & Decoder, Vision-Encoder & Decoder and Decoder Only Network with equivalent performance that outperforms the baseline models.
+<br>
+<br>
 
-
+<!---------------------------------------------------------------------->
 <h3 align="center">
   
   [Neural Style Transfer, _Deep Learning_](https://github.com/arif9799/Neural-Style-Transfer---Deep-Learning)
@@ -352,10 +355,124 @@ Used an API for accessing flickr30k dataset to extract entities of Annotation (B
 </p>
 <br>
 
- The Canvas Conundrum, Imposing Style of an image onto Contents of another
+_The Canvas Conundrum: Imposing Style of an image onto Contents of another_
 
 An endeavor of imposition of an artistic style image onto contents of another, employing Transfer Learning concept using pre-trained CNN Model VGG-19. Normalized Images, built content-style loss function & convolved through CNN (with frozen weights) while back-propagating summed loss to Noise Image. Also, performed Hyper-parameter Tuning to find optimal values of Learning Rates, 'ɑ' & 'β' (ɑ,β determine proportion of content & style to be injected) with 21% MSE Loss
+<br>
+<br>
 
+
+<!---------------------------------------------------------------------->
+<h3 align="center">
+  
+  [Sentimental Recommendation System, _Unsupervised ML_](https://github.com/arif9799/Sentimental-Recommendation-System)
+</h3>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/NeuralStyleTransfer.gif" width="250" alt="Description">
+</p>
+<br>
+
+_OpinioCraft: Unleashing Sentimental Insights through Unsupervised ML_
+
+An unsupervised approach to mine opinions, thoughts and emotions based on the mathematical notion of the words that determines the sentiment of the reviews that are being processed to achieve results for recommendation. The principal focus is to retrieve user’s search query (Product & Category), based on which the user will be recommended top-n products from that category alone. The Underlying mechanism in simplest terms is to figure out the sentiments of the reviews either as positive or negative, followed by clustering unique items to decide top-k products based on higher average of connotation scores.
+<br>
+<br>
+
+
+<!---------------------------------------------------------------------->
+<h3 align="center">
+  
+  [Feature Analysis, _Supervised ML_](https://github.com/arif9799/Feature-Analysis)
+</h3>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/NeuralStyleTransfer.gif" width="250" alt="Description">
+</p>
+<br>
+
+_RateVue: Decoding IMDb – A Feature Alchemy_ 
+
+Initialized with importing primary dataset of 45k+ records, merging it with secondary dataset to handle missing values of certain variables, then validating custom procedures focused on Data Wrangling, typecasting, pivoting erratic variables to Sparse Matrix and much more. Conducted Univariate Exploratory Data Analysis to explore relations among dependent and independent Variables. Trained the simple models namely Logistic Regression & kNN which outperformed complex ones such as Decision Tree & Random Forest.
+<br>
+<br>
+
+
+<!---------------------------------------------------------------------->
+<h3 align="center">
+  
+  [Diabetic Classification, _Supervised ML_](https://github.com/arif9799/Diabetic-Classification)
+</h3>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/NeuralStyleTransfer.gif" width="250" alt="Description">
+</p>
+<br>
+
+_InsuLens: Focusing Clarity in Diabetic Classification_ 
+
+Cleaned and preprocessed anthropometric datasets with a whopping 1.8 million observations collected from 9 different states in India. Analyzed and performed hyperparameter tuning with 'Grid Search Cross Validation' to derive optimal Parameters for training the MultiLayer Perceptron Classifier to classify the Diabetics. Upsampled the minority class from the imbalanced dataset using SMOTE technique that drastically increased the accuracy of predicting diabetic class from 13% to an impressive 71.4%.
+<br>
+<br>
+
+
+<!---------------------------------------------------------------------->
+<h3 align="center">
+  
+  [Product Sales Analysis, _Data Science_](https://github.com/arif9799/Sales-Analysis/blob/main/Sales_Analysis_Online_Store.ipynb)
+</h3>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/NeuralStyleTransfer.gif" width="250" alt="Description">
+</p>
+<br>
+
+_DollaLlama: Wrangling Sales Data with Quirky Precision_ 
+
+Coalesced 180k+ records of sales into a file, performed Data Wrangling & Mining and Feature Engineered Variables, Envisioned strategic analysis based on Month, Quantities, Revenue generated & best-sellers to drive product decisions and Analyzed consumer behavior pattern of sales & extrapolated items to recommend based on frequently bought together.Electronic Appliances Sales Data – Exploratory Data Analysis Coalesced 180k+ records of sales into a file, performed Data Wrangling & Mining and Feature Engineered Variables, Envisioned strategic analysis based on Month, Quantities, Revenue generated & best-sellers to drive product decisions and Analyzed consumer behavior pattern of sales & extrapolated items to recommend based on frequently bought together.
+<br>
+<br>
+
+
+<!---------------------------------------------------------------------->
+<h3 align="center">
+  
+  [Life Expectancy Prediction, _Data Science and Supervised ML_](https://github.com/arif9799/LIFE-EXPECTANCY-PREDICTION)
+</h3>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/NeuralStyleTransfer.gif" width="250" alt="Description">
+</p>
+<br>
+
+_Tomorrow's Time, Today's Numbers: Life Expectancy in a Snap_ 
+
+Forecasted life expectancy by constructing a Linear Regression Model on independent attributes of primary Dataset, with subsequent Feature Engineering of 5 Candidate Predictors & selection of 3 independent variables as Predictors for the Regression Model. Conclusion with Accomplishment an RMSE of 0.0095, exhausting all combination of predictors with response variable ‘Life Expectancy’.
+<br>
+<br>
+
+<!---------------------------------------------------------------------->
+<h3 align="center">
+  
+  [GDP Visualisation, _Data Science and EDA_](https://github.com/arif9799/GDP-Visualisation)
+</h3>
+<br>
+
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/NeuralStyleTransfer.gif" width="250" alt="Description">
+</p>
+<br>
+
+_Graphonomics: Crafting a Visual representation of Economic Growth_ 
+
+Started with extraction of demographic economic data from ‘World Development Indicator’ Datasets in WDI Package in ‘R’ language and then Analyzed data by plotting time series graphs of the GDP of certain countries for last 6 decades and constructing a Mini-Poster to Contrast. Finally, Inferencing various peaks of GDP & correlations of the variables & made presumptions of “The Great Recession”.
+<br>
+<br>
 
 
 
