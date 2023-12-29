@@ -25,7 +25,7 @@
   ___
 </p>
 <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/IntroGIF.gif" width="250" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/IntroGIF.gif" width="750" alt="Description">
 </p>
 
 <br>
