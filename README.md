@@ -322,7 +322,7 @@ The following fragments of tools and technologies along with essentials, define 
   _Project Portfolio: Crafting Solutions_ 
   </h1>
 
-  The following section will showcase my skills further utilized in personal and curriculum Projects. I invite you to explore the github profile and readme files of the Projects for further information as this is just a short summary into the vast array of possibilities where my skills can be applied, post collaboration with SMEs.
+  The following section will showcase my skills further utilized in personal and curriculum Projects. I invite you to explore the github profile and readme files of the Projects for further information as this is just a short summary into the vast array of possibilities where my skills can be applied, post collaboration with SMEs. 
   <br>
   <br>
 
