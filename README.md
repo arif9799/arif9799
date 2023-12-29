@@ -3,11 +3,6 @@
   _Hi there, I am Arif!_
 </h1>
 
-<br>
-<br>
-<br>
-<br>
-
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-sarfaraz-waghbakriwala-9424a1225/)&emsp;&emsp;
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arifwaghbakriwala97)&emsp;&emsp;
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arif.waghbakriwala.9)&emsp;&emsp;
