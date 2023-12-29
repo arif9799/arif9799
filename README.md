@@ -42,11 +42,11 @@
 
 👋 Hi everyone,
 
-I'm Arif, a Data Scientist with a Master's in Data Science from Northeastern University. 🚀 My expertise lies in transforming complex datasets into actionable insights and crafting end-to-end business solutions. 🧠 I specialize in automating decision-making through innovative modeling techniques and I excel at unraveling untold data stories and presenting complex concepts in creative ways, including animations! 📊✨
+I'm Arif, a Data Scientist with a Master's in Data Science from Northeastern University. 🚀 My expertise lies in transforming complex datasets into actionable insights and crafting end-to-end solutions. 🧠 I specialize in automating decision-making through innovative modeling techniques and I unravel untold data stories while presenting complex concepts in creative ways, including animations! 📊✨
 
-I've tackled impactful projects at PUMA North America, automating outlier detection in retail sales data and building sales and demand forecasting system for optimizing raw materials inventory. 💼 🎓 I also served as a Graduate Teaching Assistant for CS7150-Deep Learning and DS4400- Machine Learning and Data Mining, designing homeworks & rubrics, grading and conducting Office Hours to Simplify concepts.
+I've tackled impactful projects at PUMA North America, automating outlier detection in retail sales data and building sales and demand forecasting system for optimizing raw materials inventory. 💼 🎓 I also served as a Graduate TA for CS7150-Deep Learning and DS4400- Machine Learning and Data Mining, designing homeworks & rubrics, grading and conducting Office Hours to Simplify concepts.
 
-My technical strengths include Time Series Analysis, Machine Learning, Data Mining, SQL and Statistics. Proficient in Python, R, C/C++ and key libraries like Pandas, Scikit-learn, Numpy, Tensorflow, PyTorch, Keras, etc 📚🖥️. 🗣️📚 Let's connect and explore the world of data together! 🌐✨
+My technical strengths include Time Series Analysis, Machine Learning, Data Mining, SQL and Statistics. Proficient in Python, R, C/C++ and libraries like Pandas, Scikit-learn, Numpy, Tensorflow, PyTorch, Keras, etc 📚🖥️. 🗣️📚 Let's connect and explore world of data together! 🌐✨
 
 
 
