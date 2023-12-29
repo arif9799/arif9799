@@ -597,6 +597,11 @@ In this Article
   _Competencies: Because Juggling Chainsaws Wasn't on the Resume_ 
   </h1>
   <br>
+
+  <p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/juggling.gif" width="250" alt="Description">
+</p>
+<br>
   
 - Leadership Skills
 - Communication Skills
