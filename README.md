@@ -269,7 +269,7 @@ The following fragments of tools and technologies along with essentials, define 
     
   - _Data Analysis and Cleaning:_ EDA, Categorical encoding and feature engineering were applied to handle intricacies of products variability. Dataset, comprising of 2M rows & 100k unique products, underwent meticulous cleaning, systematic time series imputation at regular intervals/frequency and filtering, inflating to 12M rows, focusing on top 2k revenue-generating products.
     
-  - _Leveraging Time Series Models:_ Various time series & Deep Learning models, like AutoRegressive, Moving Averages & RNNs were employed for Univariate & Multivariate Panel Data Time Series Modeling. The ensemble technique reduced RMSE by 34% from 54 to 20.
+  - _Leveraging Time Series Models:_ Various time series & DL models, like AutoRegressive, Moving Averages & RNNs were employed for Univariate & Multivariate Panel Data Time Series Modeling. The ensemble technique reduced RMSE by 34% from 54 to 20.
     
   - _Building and deploying ML Pipeline:_ The project culminated in an ML Pipeline orchestrated in Azure Synapse Analytics with feature stores, training scripts and model registries. The ML Pipeline retrieved semi-structured data from MSSQL Server, cleaned and synthesized it, and fed it into different models. The Ensemble Container aggregated predictions, resulting in precise forecasts. Key Performance Indicators (KPIs) were incorporated, and the entire prototype was well-documented. This project not only mitigated operational challenges but also showcased my proficiency in data science, statistical modeling and successful deployments.
 
@@ -314,11 +314,11 @@ The following fragments of tools and technologies along with essentials, define 
 <br>
 
 - CS 7150: Deep Learning
-  - The course curriculum needed enhancement to emphasize practical applications of Neural Network Theories including Diffusion and Large Language Models
-  - Undertook the initiative to restructure the curriculum and create a more interactive learning environment by helping build the logistics and infrastructure.
-  - Designed and implemented advanced homework assignments on topics like Transformers and Diffusion Models from scratch
-  - Set up discussion panels on the latest AI research papers, invoking live discussions while fostering a **90%** increase in student participation.
-  - The restructured curriculum resulted in students not only grasping theoretical concepts but also understanding their real-world relevance.
+  - The course curriculum needed enhancement to emphasize practical applications of Neural Networks including Diffusion and LLMs
+  - Helped restructure the curriculum, create an interactive learning environment & building logistics & infrastructure
+  - Designed and implemented rubrics & advanced homeworks on topics like Transformers and Diffusion Models from scratch
+  - Set up discussion panels on latest AI research, invoking live discussions while fostering **90%** increase in student participation
+  - Restructured curriculum resulted in students not only grasping theoretical concepts but also understanding real-world relevance
 
  <!--
 <p align="center">
@@ -327,12 +327,12 @@ The following fragments of tools and technologies along with essentials, define 
 -->
   
 - DS 4400: ML & Data Mining
-  - The course aimed to provide students with a comprehensive understanding of Data Science, Machine Learning and Advanced Predictive Analytics.
+  - The course aimed to provide students with a comprehensive understanding of Data Science,ML and Advanced Predictive Analytics
   - My role was integral to bridging theoretical knowledge with hands-on experience in building ML Models from scratch in Python
   - Simplified complex academic theories into simple laymen terms, translating them into tangible real-world applications
-  - Guided students through experiential learning projects to provide a practical bridge between theory and application.
-  - Contributed to comprehensive course coverage, ensuring a strong foundation in both theory and practice.
-  - Students gained a robust understanding of the subject, applying theoretical knowledge to real-world scenarios successfully.
+  - Guided students through experiential learning projects to provide a practical bridge between theory and application
+  - Contributed to comprehensive course coverage, ensuring a strong foundation in both theory and practice
+  - Students gained a robust understanding of the subject, applying theoretical knowledge to real-world scenarios successfully
  
 <br>
 <br>
