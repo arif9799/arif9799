@@ -288,15 +288,15 @@ The following fragments of tools and technologies along with essentials, define 
 
   - _Introduction:_ This project centered on Statistical Modeling and Backtest Predictions. The goal was to automate the identification and rectification of outliers in retail sales data, enhancing the integrity of month-end analytical reports for business evaluation.
     
-  - _Problem Statement:_ Addressing intermittent inactivity in PUMA's global retail store networks, the project aimed to resolve incomplete data transmissions and gaps in centralized database. Manual identification was hindered by high volume & frequency of sale transactions.
+  - _Problem Statement:_ Addressed intermittent inactivity in PUMA's global retail networks, the project aimed to resolve incomplete data transmissions and gaps in centralized database. Manual identification was hindered by high volume & frequency of sale transactions.
   
-  - _Approach:_ Utilizing Python's 'openpyxl' library, I automated Excel refreshes to fetch daily retail sales data. The data was then aggregated into hourly intervals, transforming irregular frequencies into a structured time series format. Rolling and expanding windows, utilizing numpy, pandas and ADTK, were employed for different statistics features.
+  - _Approach:_ Utilized Python's 'openpyxl' library, automated excel refreshes to extract data, aggregating into hourly intervals & building regular frequency time series. Rolling and expanding windows, utilizing numpy, pandas, were employed for different statistic features.
   
-  - _Model Training:_ The time series data was processed to standardize irregular transaction frequencies across stores. Statistical feature engineering involved rolling and expanding window techniques. Separate Univariate & Multivariate time series models for each rolling statistic were trained using ADTK and Scikit-learn. Models were validated and tested on an **80-20** split to ensure accuracy and reliability.
+  - _Model Training:_  Individual separate Univariate & Multivariate time series models for each rolling statistic was trained using ADTK and Scikit-learn (sktime). Models were validated and tested on an **80-20** split to ensure accuracy and reliability of predictions.
   
-  - _Identifying Outliers:_ A discrepancy threshold was established for back-test predictions against actual data. A voting system across models was implemented to classify data points as anomalies. This process was extended to all retail stores, significantly improving anomaly detection precision.
+  - _Identifying Outliers:_ A discrepant value was established for back-test predictions (estimation) against actual data. A voting system across models was implemented to classify data points as anomalies if difference between estimation & current data is very large.
   
-  - _Results:_ The implemented framework reduced man-hours for identifying outliers by **60%**. Rigorous evaluation of Key Performance Indicators **(KPIs)** and hypothesis testing was conducted. Interfaces using tkinter were developed for result display, showcasing flagged outliers and identifying specific retail stores contributing to sales mismatches. The architecture was encapsulated using auto_py_to_exe for seamless execution on any system.
+  - _Results:_ The implemented framework reduced man-hours for identifying outliers by **60%**. Calculated Key Performance Indicators **(KPIs)** & conducted hypothesis test. Interface using tkinter was developed for display, showcasing flagged outliers and identifying  retail stores contributing to sales mismatch. The architecture was encapsulated using auto_py_to_exe for seamless execution.
 <br>
 <br>
 
