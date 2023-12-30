@@ -580,7 +580,7 @@ In this Article, I describe in detail how we built an Opinion based unsupervised
 </p>
 <br>
 
-In this Article
+In this Article, I delve into time series forecasting with a focus on calculating prediction intervals, emphasizing the variation in width for time series data compared to non-time series data. I've involved and shed some light on concepts such as confidence intervals, confidence levels, prediction intervals, normal distributions and z-values. In this article I've explored statistical basics, including confidence intervals, population vs. sample, and normal distribution. Also, highlighting the use of z-values to standardize normal distributions and introduces the Central Limit Theorem. In the final section, I explain prediction intervals for both single-step and multi-step forecasting, considering the variability of standard error with the forecasting horizon. The content concludes with a practical example of predicting stock prices and calculating corresponding prediction intervals.
 
 <br>
 <br>
@@ -601,7 +601,7 @@ In this Article
 </p>
 <br>
 
-In this Article
+In this Article, I explore the evolution of deep learning architectures, focusing on the shortcomings of Recurrent Neural Networks (RNNs) that led to the rise of Transformer Neural Networks. I have covered concepts such as positional encoding, the relational database's Key-Query-Value analogy serving as the basis for transformer self-attention and the transition from RNNs to Transformers. This article emphasizes the importance of attention mechanisms, detailing the Self-Attention mechanism and its role in learning the structure of input sequences. Additionally, this article introduces Multi-head Attention in Transformers, demonstrating how it allows the model to learn multiple aspects simultaneously. I concludesd the article by hinting at the cross-attention mechanism in the decoder, leaving room for future exploration of detailed and easy explanation in upcoming series of Deep Learning articles.
 
 <br>
 <br>
