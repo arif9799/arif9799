@@ -559,7 +559,7 @@ Started with extraction of demographic economic data from ‘World Development I
 </p>
 <br>
 
-In this Article
+In this Article, I describe in detail how we built an Opinion based unsupervised Recommendation Engine utilizing the Amazon reviews dataset. Based on word embeddings, clustering techniques and custom calculation of Connotation Scores, we determnine the top-n products to recommend to a particular user based on their search queries alone. The workflow involves data pre-processing, text tokenization, model training using Word2Vec, KMeans clustering, class determination, sentiment scoring, and generating personalized recommendations based on user queries and product categories. The project is generic and applicable to various review datasets
 
 <br>
 <br>
