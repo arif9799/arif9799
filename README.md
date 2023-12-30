@@ -286,9 +286,9 @@ The following fragments of tools and technologies along with essentials, define 
 </p>
 <br>
 
-  - _Introduction:_ This project centered on Statistical Modeling and Backtest Predictions. The goal was to automate the identification and rectification of outliers in retail sales data, enhancing the integrity of month-end analytical reports.
+  - _Introduction:_ This project centered on Statistical Modeling and Backtest Predictions. The goal was to automate the identification and rectification of outliers in retail sales data, enhancing the integrity of month-end analytical reports for business evaluation.
     
-  - _Problem Statement:_ Addressing intermittent inactivity in PUMA's global retail store networks, the project aimed to resolve incomplete data transmissions and gaps in the centralized database. The manual identification and rectification of these gaps were hindered by the high volume and frequency of sales transactions.
+  - _Problem Statement:_ Addressing intermittent inactivity in PUMA's global retail store networks, the project aimed to resolve incomplete data transmissions and gaps in centralized database. Manual identification was hindered by high volume & frequency of sale transactions.
   
   - _Approach:_ Utilizing Python's 'openpyxl' library, I automated Excel refreshes to fetch daily retail sales data. The data was then aggregated into hourly intervals, transforming irregular frequencies into a structured time series format. Rolling and expanding windows, utilizing numpy, pandas and ADTK, were employed for different statistics features.
   
