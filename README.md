@@ -256,10 +256,10 @@ The following fragments of tools and technologies along with essentials, define 
 </h5>
 <br>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/timeseries.gif" width="250" alt="Description">
 </p>
-<br>
+<br>-->
 
   - _Introduction:_ As a Data Scientist at PUMA, I led a pivotal project focused on Statistical Modeling and Forecasting for Apparel Manufacturers. The objective was to enhance preparedness for unprecedented demands from elite & strategic Clients.
     
@@ -281,10 +281,10 @@ The following fragments of tools and technologies along with essentials, define 
 </h5>
 <br>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/AnomalyDetection.gif" width="250" alt="Description">
 </p>
-<br>
+<br>-->
 
   - _Introduction:_ This project centered on Statistical Modeling and Backtest Predictions. The goal was to automate the identification and rectification of outliers in retail sales data, enhancing the integrity of month-end analytical reports for business evaluation.
     
@@ -319,10 +319,12 @@ The following fragments of tools and technologies along with essentials, define 
   - Designed and implemented advanced homework assignments on topics like Transformers and Diffusion Models from scratch
   - Set up discussion panels on the latest AI research papers, invoking live discussions while fostering a **90%** increase in student participation.
   - The restructured curriculum resulted in students not only grasping theoretical concepts but also understanding their real-world relevance.
- 
+
+ <!--
 <p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/gta.gif" width="250" alt="Description">
 </p>
+-->
   
 - DS 4400: ML & Data Mining
   - The course aimed to provide students with a comprehensive understanding of Data Science, Machine Learning and Advanced Predictive Analytics.
