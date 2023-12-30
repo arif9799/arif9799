@@ -269,9 +269,9 @@ The following fragments of tools and technologies along with essentials, define 
     
   - _Data Analysis and Cleaning:_ EDA, Categorical encoding and feature engineering were applied to handle intricacies of products variability. Dataset, comprising of 2M rows & 100k unique products, underwent meticulous cleaning, systematic time series imputation at regular intervals/frequency and filtering, inflating to 12M rows, focusing on top 2k revenue-generating products.
     
-  - _Leveraging Time Series Models:_ Various time series & Deep Learning models, like AutoRegressive, Moving Averages & RNNs were employed for Univariate & Multivariate Panel Data Time Series Modeling. The ensemble technique reduced overall RMSE by 34% from 54 to 20.
+  - _Leveraging Time Series Models:_ Various time series & Deep Learning models, like AutoRegressive, Moving Averages & RNNs were employed for Univariate & Multivariate Panel Data Time Series Modeling. The ensemble technique reduced RMSE by 34% from 54 to 20.
     
-  - _Building and deploying ML Pipeline:_ The project culminated in an ML Pipeline orchestrated in Azure Synapse Analytics with feature stores, training scripts and model registries. The ML Pipeline retrieved semi-structured data from MSSQL Server, cleaned and synthesized it, and fed it into different models. The Ensemble Container aggregated predictions, resulting in precise forecasts. Key Performance Indicators (KPIs) were incorporated, and the entire prototype was well-documented. This project not only mitigated operational challenges for PUMA but also showcased my proficiency in data science methodologies, statistical modeling and successful deployment of ML solutions.
+  - _Building and deploying ML Pipeline:_ The project culminated in an ML Pipeline orchestrated in Azure Synapse Analytics with feature stores, training scripts and model registries. The ML Pipeline retrieved semi-structured data from MSSQL Server, cleaned and synthesized it, and fed it into different models. The Ensemble Container aggregated predictions, resulting in precise forecasts. Key Performance Indicators (KPIs) were incorporated, and the entire prototype was well-documented. This project not only mitigated operational challenges but also showcased my proficiency in data science, statistical modeling and successful deployments.
 
 <br>
 <br>
