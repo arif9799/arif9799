@@ -643,7 +643,7 @@ In this Article, I explore the evolution of deep learning architectures, focusin
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <h1> 
   
-  _Competencies: Because Juggling Wasn't on the Resume_ 
+  _Competencies: Because Juggling Wasn't on Resume_ 
   </h1>
   <br>
 
