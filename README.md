@@ -3,13 +3,14 @@
   _Hi there, I am Arif!_
 </h1>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-sarfaraz-waghbakriwala-9424a1225/)&emsp;&emsp;
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arifwaghbakriwala97)&emsp;&emsp;
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arif.waghbakriwala.9)&emsp;&emsp;
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/arif97)&emsp;&emsp;
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ArifWaghbakriwala/featured)&emsp;&emsp;
-[![](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://in.pinterest.com/arifwaghbakriwala/)&emsp;&emsp;
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/arif_wb/)&emsp;&emsp;
+[![🚀 Download Resume](https://img.shields.io/badge/🚀%20Download%20Resume-PDF-green?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/arif9799/arif9799/blob/main/Resume/assets/Arif_Waghbakriwala.pdf)&emsp;&emsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-sarfaraz-waghbakriwala-9424a1225/)&emsp;&emsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arifwaghbakriwala97)&emsp;&emsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arif.waghbakriwala.9)&emsp;&emsp;
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/arif97)&emsp;&emsp;
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ArifWaghbakriwala/featured)&emsp;&emsp;
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://in.pinterest.com/arifwaghbakriwala/)&emsp;&emsp;
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/arif_wb/)&emsp;&emsp;
 <br>
 <br>
 
