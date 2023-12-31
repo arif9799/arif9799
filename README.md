@@ -19,7 +19,7 @@
   ___
 </p>
 <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/IntroGIF.gif" width="2500" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/IntroGIF.gif" width="5000" alt="Description">
 </p>
 
 <br>
