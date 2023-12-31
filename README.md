@@ -10,7 +10,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ArifWaghbakriwala/featured)&emsp;&emsp;
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://in.pinterest.com/arifwaghbakriwala/)&emsp;&emsp;
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/arif_wb/)&emsp;&emsp;
-[![🚀 Download Resume](https://img.shields.io/badge/🚀%20Download%20Resume-PDF-green?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/arif9799/arif9799/blob/main/Resume/assets/Arif_Waghbakriwala.pdf)&emsp;&emsp;
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-green?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/arif9799/arif9799/blob/main/Resume/assets/Arif_Waghbakriwala.pdf)&emsp;&emsp;
 <br>
 <br>
 
