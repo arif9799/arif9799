@@ -18,12 +18,11 @@
   
   ___
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/IntroGIF.gif" width="5000" alt="Description">
-</p>
+</p> -->
 
-<br>
-<br>
+
 <br>
 <br>
 
