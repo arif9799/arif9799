@@ -242,59 +242,33 @@ The following fragments of tools and technologies along with essentials, define 
 </h4>
 <br>
 
-<h5 align="center">
+<h5 align="left">
   SALES AND DEMAND FORECASTING
 </h5>
-<br>
 
-<!--<p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/timeseries.gif" width="250" alt="Description">
-</p>
-<br>-->
+_Predictive models used:_ AR, MA, ARIMA, SARIMA, Exponential Smoothing, Random Forest Regression, XGBoost, fbProphet, etc  
+_Cloud and Libraries used:_ Azure ML Studio, Azure Data Factory, Azure DataBricks, pandas, numpy, scikit-learn, Pytorch, Tensorflow, etc  
 
-  - _Introduction:_ As a Data Scientist at PUMA, I led a pivotal project focused on Statistical Modeling and Forecasting for Apparel Manufacturers. The objective was to enhance preparedness for unprecedented demands from elite & strategic Clients.
-    
-  - _Problem Statement:_ PUMA faced challenges fulfilling orders due to unpredictable demands and raw material shortages, leading to potential annual losses. The primary hurdle was inability to strategically stock raw materials, impacting timely order fulfillment.
-    
-  - _Approach:_ Given the automated nature of Amazon's orders, the project involved collecting and analyzing data on weekly orders from Amazon. It involved migrating data from SQL Server to Azure Cloud using SSIS packages, followed by ETL with Azure Data Factory and Time Series Prediction in ML Pipeline using Azure ML Studio and Azure Databricks, serving the results on frontend using Azure Data Lake Analytics. The emphasis was on Machine Learning, Statistical Modeling and Predictive Analysis.
-    <p align="center">
-      <img src="https://github.com/arif9799/arif9799/blob/main/Images/PUMA/SNDF_ArchitecturalWorkflow.drawio.png" width="500" alt="Description">                                               
-    </p>
-    
-  - _Data Analysis and Cleaning:_ EDA, Categorical encoding and feature engineering were applied to handle intricacies of products variability. Dataset, comprising of 2M rows & 100k unique products, underwent meticulous cleaning, systematic time series imputation at regular intervals/frequency and filtering, inflating to 12M rows, focusing on top 2k revenue-generating products.
-    
-  - _Leveraging Time Series Models:_ Various time series & DL models, like AutoRegressive, Moving Averages & RNNs were employed for Univariate & Multivariate Panel Data Time Series Modeling. The ensemble technique reduced RMSE by 34% from 54 to 20.
-    
-  - _Building and deploying ML Pipeline:_ The project culminated in an ML Pipeline orchestrated in Azure Synapse Analytics with feature stores, training scripts and model registries. The ML Pipeline retrieved semi-structured data from MSSQL Server, cleaned and synthesized it, and fed it into different models. The Ensemble Container aggregated predictions, resulting in precise forecasts. Key Performance Indicators (KPIs) were incorporated, and the entire prototype was well-documented. This project not only mitigated operational challenges but also showcased my proficiency in data science, statistical modeling and successful deployments.
-    <p align="center">
-      <img src="https://github.com/arif9799/arif9799/blob/main/Images/PUMA/SNDF_MLPipeline.drawioh.png" width="400" alt="Description">                                               
-    </p>
-
+- _Situation:_ Operational hurdles in fulfilling Customer demands due to inadequate forecast of raw materials, impacting revenue streams  
+- _Task:_ Develop Time Series Forecasting System to forecast future Demands, enabling proactive raw material procurement strategies  
+- _Action:_ Preformed Data Cleaning, standardization, feature engineering, imputations & deployed Univariate/Multivariate Models on Cloud  
+- _Results:_ Achieved 34% reduction in RMSE & enhanced accuracy to 80%, facilitating decision-making efficiency & increased revenue  
 
 <br>
 <br>
 
-<h5 align="center">
+<h5 align="left">
   ANOMALY DETECTION
 </h5>
-<br>
 
-<!--<p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/AnomalyDetection.gif" width="250" alt="Description">
-</p>
-<br>-->
+_Predictive models used:_ AR, MA, ARIMA, SARIMA, Exponential Smoothing, Random Forest Regression, XGBoost, etc  
+_Cloud and Libraries used:_  pandas, numpy, scikit-learn, Pytorch, openpyxl, ADTK, Seaborn, MatplotLib, sktime, darts, StatsModels etc  
 
-  - _Introduction:_ This project centered on Statistical Modeling and Backtest Predictions. The goal was to automate the identification and rectification of outliers in retail sales data, enhancing the integrity of month-end analytical reports for business evaluation.
-    
-  - _Problem Statement:_ Addressed intermittent inactivity in PUMA's global retail networks, the project aimed to resolve incomplete data transmissions and gaps in centralized database. Manual identification was hindered by high volume & frequency of sale transactions.
-  
-  - _Approach:_ Utilized Python's 'openpyxl' library, automated excel refreshes to extract data, aggregating into hourly intervals & building regular frequency time series. Rolling and expanding windows, utilizing numpy, pandas, were employed for different statistic features.
-  
-  - _Model Training:_  Individual separate Univariate & Multivariate time series models for each rolling statistic was trained using ADTK and Scikit-learn (sktime). Models were validated and tested on an **80-20** split to ensure accuracy and reliability of predictions.
-  
-  - _Identifying Outliers:_ A discrepant value was established for back-test predictions (estimation) against actual data. A voting system across models was implemented to classify data points as anomalies if difference between estimation & current data is very large.
-  
-  - _Results:_ The implemented framework reduced man-hours for identifying outliers by **60%**. Calculated Key Performance Indicators **(KPIs)** & conducted hypothesis test. Interface using tkinter was developed for display, showcasing flagged outliers and identifying  retail stores contributing to sales mismatch. The architecture was encapsulated using auto_py_to_exe for seamless execution.
+- _Situation:_ Data transmission issues from local store registers, leads to significant gaps in analytical reports, requiring intervention  
+- _Task:_ Develop Python application using Machine Learning and Time Series methods to automate anomaly detection in retails sales data  
+- _Action:_ Implemented automated data retrieval & trained Univariate time series models for various rolling stats, streamlining detection  
+- _Results:_ Achieved 90% reduction in man-hours with 60% accuracy, deployed as a Python APK for outlier detection and rectification.
+
 <br>
 <br>
 
