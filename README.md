@@ -40,16 +40,11 @@
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/SnapShot2.gif" width="250" alt="Description">
 </p>
 
-👋 Hi everyone,
+Myself Arif, a Data Scientist with a Master's in Data Science from Northeastern University. My expertise lies in transforming complex datasets into actionable and meaningful insights. I can craft end-to-end automated solutions, translate business inquiries into fully-fledged ML Systems, excel at building statistical & predictive models while simplifying complex concepts and present results to both technical and non-technical stakeholders via creative mediums, including animations!
 
-I'm Arif, a Data Scientist with a Master's in Data Science from Northeastern University. 🚀 My expertise lies in transforming complex datasets into actionable insights and crafting end-to-end solutions. 🧠 I specialize in automating decision-making through innovative modeling techniques and I unravel untold data stories while presenting complex concepts in creative ways, including animations! 📊✨
+I've tackled impactful projects at PUMA North America, automated outlier detection in retail sales data and built sales and demand forecasting system for optimizing raw supply inventory. I've also served as a Graduate TA for CS7150-Deep Learning and DS4400- Machine Learning and Data Mining, designed homeworks & rubrics, performed grading and conducted Office Hours to Simplify concepts.
 
-I've tackled impactful projects at PUMA North America, automating outlier detection in retail sales data and building sales and demand forecasting system for optimizing raw materials inventory. 💼 🎓 I also served as a Graduate TA for CS7150-Deep Learning and DS4400- Machine Learning and Data Mining, designing homeworks & rubrics, grading and conducting Office Hours to Simplify concepts.
-
-My technical strengths include Time Series Analysis, Machine Learning, Data Mining, SQL and Statistics. Proficient in Python, R, C/C++ and libraries like Pandas, Scikit-learn, Numpy, Tensorflow, PyTorch, Keras, etc 📚🖥️. 🗣️📚 Let's connect and explore world of data together! 🌐✨
-
-
-
+My technical strengths include Time Series Analysis, Machine Learning, Statistics, SQL and Software Integration. Proficient in Python, R, C/C++ and libraries like Pandas, Scikit-learn, Numpy, Tensorflow, PyTorch, Keras, bs4 etc. I am a highly motivated detail-oriented individual with a strong work ethic, keen and always on the verge of learning something new. 
 
 <br>
 <br>
