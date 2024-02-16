@@ -227,13 +227,17 @@ The following fragments of tools and technologies along with essentials, define 
   
 <h3>
   
-  [__PUMA North America__](https://us.puma.com/us/en) - _Data Scientist July'22- December'22_
+  [__PUMA North America__](https://us.puma.com/us/en), _Data Scientist_
+</h3><h3 align = 'right'>
+  
+  _July'22- December'22_
 </h3>
 <br>
 
 <p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/PUMA.gif" width="250" alt="Description">
 </p>
+
 <br>
 
 <h4>
@@ -275,7 +279,10 @@ _Cloud and Libraries used:_  pandas, numpy, scikit-learn, Pytorch, openpyxl, ADT
 
 <h3>
   
-  [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) at Northeastern University - _Graduate TA Jan'22- December'22_
+  [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/), _Graduate TA_
+</h3><h3 align = 'right'>
+  
+  _Jan'22- December'22_
 </h3>
 <br>
 
