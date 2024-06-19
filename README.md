@@ -97,32 +97,21 @@
 </h4>
 <br>
 
-<h5 align="left">
-  SALES AND DEMAND FORECASTING
-</h5>
-
 _Predictive models used:_ AR, MA, ARIMA, SARIMA, Exponential Smoothing, Random Forest Regression, XGBoost, fbProphet, etc  
-_Cloud and Libraries used:_ Azure ML Studio, Azure Data Factory, Azure DataBricks, pandas, numpy, scikit-learn, Pytorch, Tensorflow, etc  
+_Cloud and Libraries used:_ Azure ML Studio, Azure Data Factory, pandas, numpy, scikit-learn, Pytorch, Tensorflow, etc  
 
-- _Situation:_ Operational hurdles in fulfilling Customer demands due to inadequate forecast of raw materials, impacting revenue streams  
-- _Task:_ Develop Time Series Forecasting System to forecast future Demands, enabling proactive raw material procurement strategies  
-- _Action:_ Preformed Data Cleaning, standardization, feature engineering, imputations & deployed Univariate/Multivariate Models on Cloud  
-- _Results:_ Achieved 34% reduction in RMSE & enhanced accuracy to 80%, facilitating decision-making efficiency & increased revenue  
 
-<br>
-<br>
 
-<h5 align="left">
-  ANOMALY DETECTION
-</h5>
-
-_Predictive models used:_ AR, MA, ARIMA, SARIMA, Exponential Smoothing, Random Forest Regression, XGBoost, etc  
-_Cloud and Libraries used:_  pandas, numpy, scikit-learn, Pytorch, openpyxl, ADTK, Seaborn, MatplotLib, sktime, darts, StatsModels etc  
-
-- _Situation:_ Data transmission issues from local store registers, leads to significant gaps in analytical reports, requiring intervention  
-- _Task:_ Develop Python application using Machine Learning and Time Series methods to automate anomaly detection in retails sales data  
-- _Action:_ Implemented automated data retrieval & trained Univariate time series models for various rolling stats, streamlining detection  
-- _Results:_ Achieved 90% reduction in man-hours with 60% accuracy, deployed as a Python APK for outlier detection and rectification.
+• Deployed "Demand Forecasting system" in Azure & optimized raw materials inventory with 80% Accuracy  
+• Built SSIS Package with Azure Feature Pack for data migration and ETL Pipeline in Azure Data Factory  
+• Performed EDA, Encoding, Rolling Statistics, calculated lag variables & built feature stores of raw data  
+• Employed Univariate Cross-Sectional Time Series & Statistical Models & used Ensemble Methods  
+• Incorporated ARIMA, SARIMA, Random Forests and RNNs/CNNs using libraries like PyTorch and darts  
+  
+• Built "Anomaly Detection APK" in Python to spot outliers in retail sales data, improving analytical report  
+• Setup automated Excel-Refreshes for retrieval and preprocessing using openpyxl, numpy and pandas  
+• Trained Univariate & Multivariate Time Series models using ADTK and darts on rolling statistics features  
+• Implemented Voting Method of Multiple Models trained on different features, achieving 60% accuracy  
 
 <br>
 <br>
@@ -169,21 +158,6 @@ _Cloud and Libraries used:_  pandas, numpy, scikit-learn, Pytorch, openpyxl, ADT
 <br>
 <br>
 
-  
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<h1> 
-  
-  _Project Portfolio: Crafting Solutions_ 
-  </h1>
-
-  The following section will showcase my skills further utilized in personal and curriculum Projects. I invite you to explore the github profile and readme files of the Projects for further information as this is just a short summary into the vast array of possibilities where my skills can be applied, post collaboration with SMEs. 
-  <br>
-  <br>
-
-
-
-
-
 
 
 
@@ -207,15 +181,6 @@ _Cloud and Libraries used:_  pandas, numpy, scikit-learn, Pytorch, openpyxl, ADT
 </p>
   
   <br>
-
-  <p align="center">
-    <a href="https://leetcode.com/arif_wb/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=arif_wb&theme=dark&hide=contributed" alt="LeetCode Statistics">
-  </a>
-
-</p>
-
-
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <h1> 
   
