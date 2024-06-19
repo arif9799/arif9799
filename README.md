@@ -68,11 +68,6 @@ I am an experienced Data Scientist with a strong foundation in Python developmen
 
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<h1> 
-  
-  _Contribution Statistics!_ 
-  </h1>
-<br>
   
 <p align="center">
     <a href="https://github.com/arif9799">
@@ -85,11 +80,7 @@ I am an experienced Data Scientist with a strong foundation in Python developmen
   
   <br>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<h1> 
-  
-  _Competencies: Because Juggling Wasn't on Resume_ 
-  </h1>
-  <br>
+
 
   <p align="center">
   <img src="https://github.com/arif9799/arif9799/blob/main/gifs/juggling.gif" width="250" alt="Description">
