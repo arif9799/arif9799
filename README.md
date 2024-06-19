@@ -187,28 +187,6 @@ _Cloud and Libraries used:_  pandas, numpy, scikit-learn, Pytorch, openpyxl, ADT
 
 
 
-<!---------------------------------------------------------------------->
-<p align="center">
-  
-  ___
-</p>
-<h3 align="center">
-  
-  [Neural Style Transfer, _Deep Learning_](https://github.com/arif9799/Neural-Style-Transfer---Deep-Learning)
-</h3>
-<br>
-
-<p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/NeuralStyleTransfer.gif" width="250" alt="Description">
-</p>
-<br>
-
-_The Canvas Conundrum: Imposing Style of an image onto Contents of another_
-
-An endeavor of imposition of an artistic style image onto contents of another, employing Transfer Learning concept using pre-trained CNN Model VGG-19. Normalized Images, built content-style loss function & convolved through CNN (with frozen weights) while back-propagating summed loss to Noise Image. Also, performed Hyper-parameter Tuning to find optimal values of Learning Rates, 'ɑ' & 'β' (ɑ,β determine proportion of content & style to be injected) with 21% MSE Loss
-<br>
-<br>
-
 
 <!---------------------------------------------------------------------->
 <p align="center">
