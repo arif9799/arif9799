@@ -83,7 +83,7 @@ I am an experienced Data Scientist with a strong foundation in Python developmen
 
 
   <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/juggling.gif" width="250" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/juggling.gif" width="150" alt="Description">
 </p>
 <br>
   
