@@ -139,16 +139,16 @@ _My professional journey is characterized by a commitment to excellence, a passi
 
   <tr align="center" style="width: 100%">
     <td align="center" style="width: 33%;">
-      <a href=""> </a> <br><br>
-      <a href=""> <img src="" style="width: 100%;"> </a> <br><br> 
+      <a href="https://github.com/arif9799/Visual-Grounding"> 🖼️ Visual Grounding </a> <br><br>
+      <a href="https://github.com/arif9799/Visual-Grounding"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/Visual%20Ground.gif" style="width: 100%;"> </a> <br><br> 
     </td>
     <td align="center" style="width: 33%;">
-      <a href=""> </a> <br><br>
-      <a href=""> <img src="" style="width: 100%;"> </a> <br><br> 
+      <a href="https://github.com/arif9799/HFST-Trade-Support"> 🏭 Commodities Trade Support </a> <br><br>
+      <a href="https://github.com/arif9799/HFST-Trade-Support"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/TradeSupport.gif" style="width: 100%;"> </a> <br><br> 
     </td>
     <td align="center" style="width: 33%;">
-      <a href=""> </a> <br><br>
-      <a href=""> <img src="" style="width: 100%;"> </a> <br><br> 
+      <a href="https://github.com/arif9799/HFST-RAG-LLMs"> 🗄 Retrieval Augmented Generation  </a> <br><br>
+      <a href="https://github.com/arif9799/HFST-RAG-LLMs"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/RAG.gif" style="width: 100%;"> </a> <br><br> 
     </td>
   </tr>
   
@@ -156,16 +156,14 @@ _My professional journey is characterized by a commitment to excellence, a passi
   
   <tr align="center" style="width: 100%">
     <td align="center" style="width: 33%;">
-      <a href="https://github.com/arif9799/HFST-ESG-Analysis">🌿 ESG Analysis with LLMs </a> <br><br>
-      <img src="https://github.com/arif9799/arif9799/blob/main/Images/ESGAnalysis.gif" style="width: 100%;">
-    </td>
-    <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/HFST-Portfolio-Optimization">🏛 Portfolio Optimization </a> <br><br>
-      <img src="https://github.com/arif9799/arif9799/blob/main/Images/PortfolioOptimization.gif" style="width: 100%;">
+      <a href="https://github.com/arif9799/HFST-Portfolio-Optimization"> <img src="https://github.com/arif9799/arif9799/blob/main/Images/PortfolioOptimization.gif" style="width: 100%;"> </a> <br><br>
     </td>
     <td align="center" style="width: 33%;">
-      <a href="https://github.com/arif9799/HFST-RAG-LLMs">🗄 Retrieval Augmented Generation </a> <br><br>
-      <img src="https://github.com/arif9799/arif9799/blob/main/Images/RAG.gif" style="width: 100%;">
+      <a href="https://github.com/arif9799/HFST-ESG-Analysis">🌿 ESG Analysis with LLMs </a> <br><br>
+      <a href="https://github.com/arif9799/HFST-ESG-Analysis"><img src="https://github.com/arif9799/arif9799/blob/main/Images/ESGAnalysis.gif" style="width: 100%;"></a> <br><br>
+    </td>
+    <td align="center" style="width: 33%;">
     </td>
   </tr>
   
