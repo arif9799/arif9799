@@ -122,7 +122,10 @@ _My professional journey is characterized by a commitment to excellence, a passi
 
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-  
+<p align="center">
+  <img src="https://github.com/arif9799/arif9799/blob/main/Images/streak.gif" width="150" alt="Description">
+</p>
+<br>
 <p align="center">
     <a href="https://github.com/arif9799">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif9799&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Repository" />
