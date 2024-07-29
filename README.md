@@ -95,61 +95,60 @@ _My professional journey is characterized by a commitment to excellence, a passi
   <tr align="center" style="width: 100%">
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/GDP-Visualisation">💰 GDP Visualisation </a> <br><br>
-      <a href="https://github.com/arif9799/GDP-Visualisation"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/GDP.gif" style="width: 100%;"> </a>
+      <a href="https://github.com/arif9799/GDP-Visualisation"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/GDP.gif" style="width: 100%;"> </a> <br><br> 
     </td>
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/Neural-Style-Transfer">🔁 Neural Style Transfer </a> <br><br>
-      <img src="https://github.com/arif9799/arif9799/blob/main/Images/PortfolioOptimization.gif" style="width: 100%;">
+      <a href="https://github.com/arif9799/Neural-Style-Transfer"><img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/NST.gif" style="width: 100%;"></a> <br><br>
     </td>
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/Life-Expectancy-Prediction">👴🏻 Life Expectancy Prediction </a> <br><br>
-      <img src="https://github.com/arif9799/arif9799/blob/main/Images/RAG.gif" style="width: 100%;">
+      <a href="https://github.com/arif9799/Life-Expectancy-Prediction"><img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/LifeExp.gif" style="width: 100%;"></a> <br><br>
+    </td>
+  </tr>
+
+  <tr align="center" style="width: 100%">
+    <td align="center" style="width: 33%;">
+      <a href="https://github.com/arif9799/Feature-Analysis"> 👨🏻‍💻 Feature Analysis </a> <br><br>
+      <a href="https://github.com/arif9799/Feature-Analysis"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/FeatureAnalysis.gif" style="width: 100%;"> </a> <br><br> 
+    </td>
+    <td align="center" style="width: 33%;">
+      <a href="https://github.com/arif9799/Sales-Analysis"> 🛒🛍️ Product Sales Analysis </a> <br><br>
+      <a href="https://github.com/arif9799/Sales-Analysis"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/ProdSales.gif" style="width: 100%;"> </a> <br><br> 
+    </td>
+    <td align="center" style="width: 33%;">
+      <a href="https://github.com/arif9799/Diabetic-Classification"> 💉 Diabetic Classification </a> <br><br>
+      <a href="https://github.com/arif9799/Diabetic-Classification"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/DiabClass.gif" style="width: 100%;"> </a> <br><br> 
+    </td>
+  </tr>
+
+  <tr align="center" style="width: 100%">
+    <td align="center" style="width: 33%;">
+      <a href="https://github.com/arif9799/Sentimental-Recommendation-System"> 🎭 Sentimental Recommendation System </a> <br><br>
+      <a href="https://github.com/arif9799/Sentimental-Recommendation-System"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/RecSys.gif" style="width: 100%;"> </a> <br><br> 
+    </td>
+    <td align="center" style="width: 33%;">
+      <a href="https://github.com/arif9799/Neural-Machine-Translation"> 🗣️ Neural Machine Translation </a> <br><br>
+      <a href="https://github.com/arif9799/Neural-Machine-Translation"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/NMT2.gif" style="width: 100%;"> </a> <br><br> 
+    </td>
+    <td align="center" style="width: 33%;">
+      <a href="https://github.com/arif9799/Image-Search-Based-Discovery-Engine"> 🌆 Image Search Based Discovery Engine </a> <br><br>
+      <a href="https://github.com/arif9799/Image-Search-Based-Discovery-Engine"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/ImageSearchBased.gif" style="width: 100%;"> </a> <br><br> 
     </td>
   </tr>
 
   <tr align="center" style="width: 100%">
     <td align="center" style="width: 33%;">
       <a href=""> </a> <br><br>
-      <img src="" style="width: 100%;">
+      <a href=""> <img src="" style="width: 100%;"> </a> <br><br> 
     </td>
     <td align="center" style="width: 33%;">
       <a href=""> </a> <br><br>
-      <img src="" style="width: 100%;">
+      <a href=""> <img src="" style="width: 100%;"> </a> <br><br> 
     </td>
     <td align="center" style="width: 33%;">
       <a href=""> </a> <br><br>
-      <img src="" style="width: 100%;">
-    </td>
-  </tr>
-  
-  <tr align="center" style="width: 100%">
-    <td align="center" style="width: 33%;">
-      <a href=""> </a> <br><br>
-      <img src="" style="width: 100%;">
-    </td>
-    <td align="center" style="width: 33%;">
-      <a href=""> </a> <br><br>
-      <img src="" style="width: 100%;">
-    </td>
-    <td align="center" style="width: 33%;">
-      <a href=""> </a> <br><br>
-      <img src="" style="width: 100%;">
-    </td>
-  </tr>
-
-  
-  <tr align="center" style="width: 100%">
-    <td align="center" style="width: 33%;">
-      <a href=""> </a> <br><br>
-      <img src="" style="width: 100%;">
-    </td>
-    <td align="center" style="width: 33%;">
-      <a href=""> </a> <br><br>
-      <img src="" style="width: 100%;">
-    </td>
-    <td align="center" style="width: 33%;">
-      <a href=""> </a> <br><br>
-      <img src="" style="width: 100%;">
+      <a href=""> <img src="" style="width: 100%;"> </a> <br><br> 
     </td>
   </tr>
   
