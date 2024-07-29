@@ -146,7 +146,7 @@ _My professional journey is characterized by a commitment to excellence, a passi
 
 
   <p align="center">
-  <img src="https://github.com/arif9799/arif9799/blob/main/gifs/grow.gif" width="150" alt="Description">
+  <img src="https://github.com/arif9799/arif9799/blob/main/Images/grow.gif" width="150" alt="Description">
 </p>
 <br>
   
