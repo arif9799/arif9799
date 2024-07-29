@@ -95,60 +95,60 @@ _My professional journey is characterized by a commitment to excellence, a passi
   <tr align="center" style="width: 100%">
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/GDP-Visualisation">💰 GDP Visualisation </a> <br><br>
-      <a href="https://github.com/arif9799/GDP-Visualisation"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/GDP.gif" style="width: 100%;"> </a> <br><br> 
+      <a href="https://github.com/arif9799/GDP-Visualisation"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/GDP.gif" style="width: 75%;"> </a> <br><br> 
     </td>
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/Neural-Style-Transfer">🔁 Neural Style Transfer </a> <br><br>
-      <a href="https://github.com/arif9799/Neural-Style-Transfer"><img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/NST.gif" style="width: 100%;"></a> <br><br>
+      <a href="https://github.com/arif9799/Neural-Style-Transfer"><img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/NST.gif" style="width: 75%;"></a> <br><br>
     </td>
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/Life-Expectancy-Prediction">👴🏻 Life Expectancy Prediction </a> <br><br>
-      <a href="https://github.com/arif9799/Life-Expectancy-Prediction"><img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/LifeExp.gif" style="width: 100%;"></a> <br><br>
+      <a href="https://github.com/arif9799/Life-Expectancy-Prediction"><img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/LifeExp.gif" style="width: 75%;"></a> <br><br>
     </td>
   </tr>
 
   <tr align="center" style="width: 100%">
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/Feature-Analysis"> 👨🏻‍💻 Feature Analysis </a> <br><br>
-      <a href="https://github.com/arif9799/Feature-Analysis"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/FeatureAnalysis.gif" style="width: 100%;"> </a> <br><br> 
+      <a href="https://github.com/arif9799/Feature-Analysis"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/FeatureAnalysis.gif" style="width: 75%;"> </a> <br><br> 
     </td>
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/Sales-Analysis"> 🛒🛍️ Product Sales Analysis </a> <br><br>
-      <a href="https://github.com/arif9799/Sales-Analysis"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/ProdSales.gif" style="width: 100%;"> </a> <br><br> 
+      <a href="https://github.com/arif9799/Sales-Analysis"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/ProdSales.gif" style="width: 75%;"> </a> <br><br> 
     </td>
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/Diabetic-Classification"> 💉 Diabetic Classification </a> <br><br>
-      <a href="https://github.com/arif9799/Diabetic-Classification"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/DiabClass.gif" style="width: 100%;"> </a> <br><br> 
+      <a href="https://github.com/arif9799/Diabetic-Classification"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/DiabClass.gif" style="width: 75%;"> </a> <br><br> 
     </td>
   </tr>
 
   <tr align="center" style="width: 100%">
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/Sentimental-Recommendation-System"> 🎭 Sentimental Recommendation System </a> <br><br>
-      <a href="https://github.com/arif9799/Sentimental-Recommendation-System"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/RecSys.gif" style="width: 100%;"> </a> <br><br> 
+      <a href="https://github.com/arif9799/Sentimental-Recommendation-System"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/RecSys.gif" style="width: 75%;"> </a> <br><br> 
     </td>
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/Neural-Machine-Translation"> 🗣️ Neural Machine Translation </a> <br><br>
-      <a href="https://github.com/arif9799/Neural-Machine-Translation"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/NMT2.gif" style="width: 100%;"> </a> <br><br> 
+      <a href="https://github.com/arif9799/Neural-Machine-Translation"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/NMT2.gif" style="width: 75%;"> </a> <br><br> 
     </td>
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/Image-Search-Based-Discovery-Engine"> 🌆 Image Search Based Discovery Engine </a> <br><br>
-      <a href="https://github.com/arif9799/Image-Search-Based-Discovery-Engine"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/ImageSearchBased.gif" style="width: 100%;"> </a> <br><br> 
+      <a href="https://github.com/arif9799/Image-Search-Based-Discovery-Engine"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/ImageSearchBased.gif" style="width: 75%;"> </a> <br><br> 
     </td>
   </tr>
 
   <tr align="center" style="width: 100%">
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/Visual-Grounding"> 🖼️ Visual Grounding </a> <br><br>
-      <a href="https://github.com/arif9799/Visual-Grounding"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/Visual%20Ground.gif" style="width: 100%;"> </a> <br><br> 
+      <a href="https://github.com/arif9799/Visual-Grounding"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/Visual%20Ground.gif" style="width: 75%;"> </a> <br><br> 
     </td>
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/HFST-Trade-Support"> 🏭 Commodities Trade Support </a> <br><br>
-      <a href="https://github.com/arif9799/HFST-Trade-Support"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/TradeSupport.gif" style="width: 100%;"> </a> <br><br> 
+      <a href="https://github.com/arif9799/HFST-Trade-Support"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/TradeSupport.gif" style="width: 75%;"> </a> <br><br> 
     </td>
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/HFST-RAG-LLMs"> 🗄 Retrieval Augmented Generation  </a> <br><br>
-      <a href="https://github.com/arif9799/HFST-RAG-LLMs"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/RAG.gif" style="width: 100%;"> </a> <br><br> 
+      <a href="https://github.com/arif9799/HFST-RAG-LLMs"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/RAG.gif" style="width: 75%;"> </a> <br><br> 
     </td>
   </tr>
   
@@ -157,11 +157,11 @@ _My professional journey is characterized by a commitment to excellence, a passi
   <tr align="center" style="width: 100%">
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/HFST-Portfolio-Optimization">🏛 Portfolio Optimization </a> <br><br>
-      <a href="https://github.com/arif9799/HFST-Portfolio-Optimization"> <img src="https://github.com/arif9799/arif9799/blob/main/Images/PortfolioOptimization.gif" style="width: 100%;"> </a> <br><br>
+      <a href="https://github.com/arif9799/HFST-Portfolio-Optimization"> <img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/PortfolioOptimization.gif" style="width: 75%;"> </a> <br><br>
     </td>
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/HFST-ESG-Analysis">🌿 ESG Analysis with LLMs </a> <br><br>
-      <a href="https://github.com/arif9799/HFST-ESG-Analysis"><img src="https://github.com/arif9799/arif9799/blob/main/Images/ESGAnalysis.gif" style="width: 100%;"></a> <br><br>
+      <a href="https://github.com/arif9799/HFST-ESG-Analysis"><img src="https://github.com/arif9799/arif9799/blob/main/gifs/Project%20Gifs/ESGAnalysis.gif" style="width: 75%;"></a> <br><br>
     </td>
     <td align="center" style="width: 33%;">
     </td>
