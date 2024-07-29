@@ -90,6 +90,22 @@ _My professional journey is characterized by a commitment to excellence, a passi
 <br>
 
 <table align="center" style="width: 100%; table-layout: fixed;">
+  
+  <tr align="center" style="width: 100%">
+    <td align="center" style="width: 33%;">
+      <a href="https://github.com/arif9799/GDP-Visualisation">💰 GDP Visualisation </a> <br><br>
+      <img src="https://github.com/arif9799/arif9799/blob/main/Images/ESGAnalysis.gif" style="width: 100%;">
+    </td>
+    <td align="center" style="width: 33%;">
+      <a href="https://github.com/arif9799/Neural-Style-Transfer">🔁 Neural Style Transfer </a> <br><br>
+      <img src="https://github.com/arif9799/arif9799/blob/main/Images/PortfolioOptimization.gif" style="width: 100%;">
+    </td>
+    <td align="center" style="width: 33%;">
+      <a href="https://github.com/arif9799/Life-Expectancy-Prediction">👴🏻 Life Expectancy Prediction </a> <br><br>
+      <img src="https://github.com/arif9799/arif9799/blob/main/Images/RAG.gif" style="width: 100%;">
+    </td>
+  </tr>
+  
   <tr align="center" style="width: 100%">
     <td align="center" style="width: 33%;">
       <a href="https://github.com/arif9799/HFST-ESG-Analysis">🌿 ESG Analysis with LLMs </a> <br><br>
